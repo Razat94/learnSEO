@@ -17,8 +17,9 @@
 
 </div>
 
+<center>
 >"<i>What would Captain America do?</i>"
-
+</center>
 <p align="center"> 
   All jokes aside, the main point of SEO is to improve your websites visibility, traffic, and rankings.
   Without further ado...
