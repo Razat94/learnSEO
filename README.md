@@ -1,8 +1,8 @@
 # <p align="center"> Learn SEO </p>
 
-<center>
+<div align = "center">
 <img src = "images/captain.jpg">
-</center>
+</div>
 
 <p align="center"> 
   So. You want to learn how to properly implement SEO for your website. 
