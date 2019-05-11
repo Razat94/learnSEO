@@ -4,7 +4,7 @@
 <img src = "images/captain.jpg">
 </div>
 
-<p align="center"> 
+
   >So. You want to learn how to properly implement SEO for your website. 
   >The question is: how are you going to make things right? 
   >Maybe you want your website to look cool and gain traffic. 
@@ -13,7 +13,7 @@
   >Next time those Black hat SEO turkeys try to convince you to something that you know is wrong, just think to yourself, 
   <br>
   >"<i>What would Captain America do?</i>"
-</p>
+
 <p align="center"> 
   All jokes aside, the main point of SEO is to improve your websites visibility, traffic, and rankings.
   Without further ado...
