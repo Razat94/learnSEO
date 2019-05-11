@@ -12,9 +12,8 @@
   We all know what's right. We all know what's wrong.
   Next time those Black hat SEO turkeys try to convince you to something that you know is wrong, 
   just think to yourself, 
-  <br>
-  </br>
-  "<i>What would Captain America do?</i>"
+
+  "*What would Captain America do?*"
 ```
 
 </div>
