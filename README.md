@@ -2,7 +2,6 @@
 
 <div align = "center">
 <img src = "images/captain.jpg">
-</div>
 
 ```
   So. You want to learn how to properly implement SEO for your website. 
@@ -15,6 +14,10 @@
   <br>
   
   >"<i>What would Captain America do?</i>"
+
+</div>
+
+
 
 <p align="center"> 
   All jokes aside, the main point of SEO is to improve your websites visibility, traffic, and rankings.
