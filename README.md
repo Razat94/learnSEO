@@ -1,5 +1,3 @@
-# <p align="center"> Learn SEO </p>
-
 <div align = "center">
 <img src = "images/captain.jpg">
 
