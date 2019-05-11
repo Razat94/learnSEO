@@ -13,7 +13,7 @@
   Next time those Black hat SEO turkeys try to convince you to something that you know is wrong, 
   just think to yourself, 
 
-  _"What would Captain America do?"_
+  'What would Captain America do?'
 ```
 
 </div>
