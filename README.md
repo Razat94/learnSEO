@@ -21,7 +21,7 @@
   Without further ado...
 </p>
 
-### <p align="center"> HERE'S HOW TO DEVELOP AN SEO FRIENDLY WEBSITE </p>
+## <p align="center"> HERE'S HOW TO DEVELOP AN SEO FRIENDLY WEBSITE </p>
 
 I really enjoyed Moz's guide to SEO. I will try to write this guide in a similar fashion by following
 [Mozs Pyramid of Greatness](https://moz.com/beginners-guide-to-seo)
