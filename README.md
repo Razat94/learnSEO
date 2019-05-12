@@ -31,10 +31,15 @@ I really enjoyed Moz's guide to SEO. I will try to write this guide in a similar
     <img src = "images/moz.PNG">
   </div>
 
-1. Crawl accessibility so engines can reach and index your content
+### <p id = "toc"> Table of Contents </p>
+1. [Crawl accessibility](#crawl) so engines can reach and index your content
 2. Compelling content that answers the searcher’s query
 3. Keyword optimized to attract searchers & engines
 4. Great user experience including a fast load speed, ease of use, and compelling UI on any device
 5. Share-worthy content that earns links, citations, and amplification
 6. Title, URL, & description to draw high CTR in the rankings
 7. Snippet/schema markup to stand out in SERPs
+
+
+
+### <p align="center" id = "crawl"> Crawl Accessibile | [Back to ToC](#toc) </p>
