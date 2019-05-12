@@ -24,9 +24,8 @@
 <br>
 ## <p align="center" id = "config"> HERE'S HOW TO DEVELOP AN SEO FRIENDLY WEBSITE </p>
 
-<p>
+
 Follow [Mozs Pyramid of Greatness](https://moz.com/beginners-guide-to-seo)
   <div align = "center">
     <img src = "images/moz.PNG">
   </div>
-</p>
