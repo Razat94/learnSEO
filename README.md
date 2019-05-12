@@ -21,8 +21,7 @@
   Without further ado...
 </p>
 
-<br />
-## <p align="center" id = "config"> HERE'S HOW TO DEVELOP AN SEO FRIENDLY WEBSITE </p>
+## <p align="center"> HERE'S HOW TO DEVELOP AN SEO FRIENDLY WEBSITE </p>
 
 
 Follow [Mozs Pyramid of Greatness](https://moz.com/beginners-guide-to-seo)
