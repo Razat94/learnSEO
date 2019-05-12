@@ -21,7 +21,7 @@
   Without further ado...
 </p>
 
-<br>
+<br />
 ## <p align="center" id = "config"> HERE'S HOW TO DEVELOP AN SEO FRIENDLY WEBSITE </p>
 
 
