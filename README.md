@@ -18,7 +18,7 @@
 
 <p align="center"> 
   All jokes aside, the main point of SEO is to improve your websites visibility, traffic, and rankings.
-  This guide already assumes you know what SEO is & how to implement it.
+  This guide already assumes you know how to implement it.
   If you ever feel stuck on trying to optimize your site, follow these guidelines & change your website accordingly. 
   Without further ado...
 </p>
