@@ -27,7 +27,6 @@
 <p>
 Follow [Mozs Pyramid of Greatness](https://moz.com/beginners-guide-to-seo)
   <div align = "center">
-    <img src = "images/captain.jpg">
+    <img src = "images/moz.png">
   </div>
 </p>
-
