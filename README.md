@@ -71,8 +71,7 @@ Here are some ways I do it:
 [Include Image Here]
 - [ ] Don't include hidden text and links [Source](https://support.google.com/webmasters/answer/66353?hl=en)
 - [ ] Don't cloak your pages [Source](https://support.google.com/webmasters/answer/66355?hl=en&ref_topic=6001971)
-- [ ] Crawl depth for your website should be no more than 3. (Also good for UX & for potential crawlers). 
-- [ ] Google doesn't see a big advantage at what the URL structure itself looks like, i.e. if there's multiple slashes in URLs.
+- [ ] Google doesn't see a big advantage at what the URL structure itself looks like, i.e. if there's multiple slashes & nested paths in URLs.
 	It however DOES care about crawl depth or how many links do someone have to click through to actually get to that content
 	[This source](https://www.searchenginejournal.com/google-click-depth-matters-seo-url-structure/256779/)
 	explains [this](https://www.youtube.com/watch?v=zyQbNGUycX8) video at the 31:09 mark.
