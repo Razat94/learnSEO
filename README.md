@@ -8,7 +8,7 @@
   Take it from a guy who's been frozen for 65 years; 
   the only way to really be cool is to follow the rules. 
   We all know what's right. We all know what's wrong.
-  Next time those black hat SEO turkeys try to convince you to something that you know is wrong, 
+  Next time any of those black hat SEO turkeys try to convince you to something that you know is wrong, 
   just think to yourself, 
 
   'What would Captain America do?'
@@ -17,9 +17,11 @@
 </div>
 
 <p align="center"> 
-  All jokes aside, the main point of SEO is to improve your websites visibility, traffic, and rankings.
+  All jokes aside, the main point of SEO is to improve your websites visibility, traffic, and search rankings.
   This guide already assumes you know how to implement it.
-  If you ever feel stuck on trying to optimize your site, follow these guidelines & change your website accordingly. 
+  This guide is meant for people who get stuck on trying to optimize a site, and would like to follow good generalized SEO practices to change their websites accordingly.
+  Please note however that even if you somehow complete all of the checklists on this page, it doesn't gurantee users that they will rank first.
+  All it means is that your page has the potential of being listed on a SERP.
   Without further ado...
 </p>
 
@@ -48,7 +50,7 @@ I really enjoyed Moz's guide to SEO. I will try to write this guide in a similar
 
 
 
-<h4><u>In short, make sure your website is crawlable.</u></h4>
+<h4>**In short, make sure your website is crawlable.**</h4>
 
 - [ ] Check for broken links, and fix any that you find.
 Here are some ways I do it:
@@ -57,23 +59,25 @@ Here are some ways I do it:
 - https://www.drlinkcheck.com/
 - [Screaming Frog](https://www.screamingfrog.co.uk/broken-link-checker/) can also find broken links 
 
-- [ ] Additionally, make sure you have no broken images. Make sure images include alt attribute. 
-> Note: Alt attributes are not allowed on the <a> tag. [Source](https://stackoverflow.com/questions/14850187/is-it-correct-to-use-alt-tag-for-an-anchor-link)
+- [ ] Make sure you also have no broken images. Make sure images include alt attribute. 
+> Note: Alt attributes are not allowed on the <a> tag. It's used for images.
+> [Source](https://stackoverflow.com/questions/14850187/is-it-correct-to-use-alt-tag-for-an-anchor-link)
 - [ ] For the robots.txt file, make sure it correctly suggests which parts of your site search engines should and shouldn't crawl
 - [ ] Utilize a XML/HTML sitemap.
 > Note: You can submit the sitemap.xml file to both Google Search Console & Bing Webmaster Tools
-- [ ] Make sure the noindex meta tag is NOT added.
+- [ ] Make sure the noindex meta tag is NOT added if you want it indexed. [Source](https://support.google.com/webmasters/answer/93710?hl=en)
 - [ ] Make sure you can access every page through links. 
 > Note: If you want a search engine to find a page, make sure it can be linked from other pages. If it can't find it, it's good as invisible.
 [Include Image Here]
 - [ ] Don't include hidden text and links [Source](https://support.google.com/webmasters/answer/66353?hl=en)
 - [ ] Don't cloak your pages [Source](https://support.google.com/webmasters/answer/66355?hl=en&ref_topic=6001971)
-
 - [ ] Crawl depth for your website should be no more than 3. (Also good for UX & for potential crawlers). 
-- [ ] Avoid nesting pages under irrelevant folders, and try to keep your URL length short. 
-> example.com/2015/april/what-is-seo/ -> example.com/what-is-seo/
-- [ ] Keywords in URL
-
+- [ ] Google doesn't see a big advantage at what the URL structure itself looks like, i.e. if there's multiple slashes in URLs.
+	It however DOES care about crawl depth or how many links do someone have to click through to actually get to that content
+	[This source](https://www.searchenginejournal.com/google-click-depth-matters-seo-url-structure/256779/)
+	explains [this](https://www.youtube.com/watch?v=zyQbNGUycX8) video at the 31:09 mark.
+> Having said all that, it is still good UX if we keep URL's short & relevant.
+- [ ] Keywords should be prevalent in URL
 - [ ] Have ssl enabled. It implies a symbol of trust to your users & search engines alike. [Source](https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html)
 
 
