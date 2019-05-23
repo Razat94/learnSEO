@@ -48,7 +48,7 @@ I really enjoyed Moz's guide to SEO. I will try to write this guide in a similar
 
 
 
-<h4>Make sure your website is crawlable.</h4>
+<h4><u>In short, make sure your website is crawlable.</u></h4>
 
 - [ ] Check for broken links, and fix any that you find.
 Here are some ways I do it:
@@ -58,10 +58,10 @@ Here are some ways I do it:
 - [Screaming Frog](https://www.screamingfrog.co.uk/broken-link-checker/) can also find broken links 
 
 - [ ] Additionally, make sure you have no broken images. Make sure images include alt attribute. 
-> Please note: Alt attributes are not allowed on the <a> tag. [Source](https://stackoverflow.com/questions/14850187/is-it-correct-to-use-alt-tag-for-an-anchor-link)
+> Note: Alt attributes are not allowed on the <a> tag. [Source](https://stackoverflow.com/questions/14850187/is-it-correct-to-use-alt-tag-for-an-anchor-link)
 - [ ] For the robots.txt file, make sure it correctly suggests which parts of your site search engines should and shouldn't crawl
 - [ ] Utilize a XML/HTML sitemap.
-- [ ] You can submit the sitemap.xml file to both Google Search Console & Bing Webmaster Tools
+> Note: You can submit the sitemap.xml file to both Google Search Console & Bing Webmaster Tools
 - [ ] Make sure the noindex meta tag is NOT added.
 - [ ] Make sure you can access every page through links. 
 > Note: If you want a search engine to find a page, make sure it can be linked from other pages. If it can't find it, it's good as invisible.
