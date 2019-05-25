@@ -57,6 +57,7 @@ I really enjoyed Moz's guide to SEO. I will try to write this guide in a similar
   <div align = "center">
     <img src = "images/links.PNG">
   </div>
+
 - [ ] Utilize a XML/HTML sitemap.
 > Note: You can submit the sitemap.xml file to both Google Search Console & Bing Webmaster Tools
 
