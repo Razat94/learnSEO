@@ -29,7 +29,7 @@
 ## <p align="center"> HERE'S HOW TO DEVELOP AN SEO FRIENDLY WEBSITE </p>
 
 I really enjoyed [Mozs Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) & [Googles SEO Starter Guide](https://support.google.com/webmasters/answer/7451184?hl=en). 
-This "guide" could not have been written without it. I can't recommend strongly enough to read through them.
+All credit goes to them, because this "guide" could not have been written without it. I can't recommend strongly enough to read through them.
 
 Just like I stated in  the disclaimer, please note that this guide will not make your website rank #1 on your searches. 
 My guide is written by reading Googles guide, and even they say this:
