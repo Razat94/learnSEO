@@ -36,6 +36,8 @@ My guide is written by reading Googles guide, and even they say this:
 > This guide won't provide any secrets that'll automatically rank your site first in Google (sorry!), 
 > but following the best practices outlined below will hopefully make it easier for search engines to crawl, index and understand your content.
 
+Having said all that, I will try to write this guide in a similar fashion by following Mozs Pyramid of Greatness:
+
   <div align = "center">
     <img src = "images/moz.PNG">
   </div>
