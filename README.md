@@ -18,9 +18,7 @@
 
 <p align="center"> 
   All jokes aside, the main point of SEO is to improve your websites visibility, traffic, and search rankings.
-  This guide already assumes you know how to implement it.
   This guide is meant for people who get stuck on trying to optimize a site, and would like to follow good generalized SEO practices to change their websites accordingly.
-  >  This guide won't provide any secrets that'll automatically rank your site first in Google (sorry!), but following the best practices outlined below will hopefully make it easier for search engines to crawl, index and understand your content.
   Please note however that even if you somehow complete all of the checklists on this page, it doesn't gurantee users that they will rank first.
   All it means is that your page has the potential of being listed on a SERP.
   Without further ado...
@@ -30,9 +28,13 @@
 
 ## <p align="center"> HERE'S HOW TO DEVELOP AN SEO FRIENDLY WEBSITE </p>
 
-I really enjoyed Moz's guide to SEO & Google's SEO Starter guide. This "guide" could not have been written without it, for it's written in a similar fashion.
-CREDITS:
-[Mozs Pyramid of Greatness](https://moz.com/beginners-guide-to-seo) & [Googles SEO Starter Guide](https://support.google.com/webmasters/answer/7451184?hl=en)
+I really enjoyed Moz's guide to SEO & Google's SEO Starter guide. 
+This "guide" could not have been written without it. I can't recommend strongly enough to read them.
+[Mozs Pyramid of Greatness](https://moz.com/beginners-guide-to-seo) & [Googles SEO Starter Guide](https://support.google.com/webmasters/answer/7451184?hl=en).
+Just like I stated in  the disclaimer, please note that this guide will not make your website rank #1 on your searches. My guide is written by reading Googles guide, and even they say this:
+> This guide won't provide any secrets that'll automatically rank your site first in Google (sorry!), 
+> but following the best practices outlined below will hopefully make it easier for search engines to crawl, index and understand your content.
+
   <div align = "center">
     <img src = "images/moz.PNG">
   </div>
