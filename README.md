@@ -58,8 +58,13 @@ I really enjoyed Moz's guide to SEO. I will try to write this guide in a similar
     <img src = "images/links.PNG">
   </div>
 
-- [ ] Utilize a XML/HTML sitemap.
+- [ ] Utilize a XML/HTML sitemap [Source](https://support.google.com/webmasters/answer/183668?hl=en)
 > Note: You can submit the sitemap.xml file to both Google Search Console & Bing Webmaster Tools
+
+```
+	Although it's completely optional, try considering adding breadcrumbs lists for your pages.
+	Look at [what a breadcrumb is](https://developers.google.com/search/docs/data-types/breadcrumb) and [how it's useful](https://seo.co/breadcrumbs-help-seo/)
+```
 
 - [ ] Check for broken links, and fix any that you find.
 Here are some ways I do it:
