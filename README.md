@@ -28,10 +28,11 @@
 
 ## <p align="center"> HERE'S HOW TO DEVELOP AN SEO FRIENDLY WEBSITE </p>
 
-I really enjoyed Moz's guide to SEO & Google's SEO Starter guide. 
-This "guide" could not have been written without it. I can't recommend strongly enough to read them.
-[Mozs Pyramid of Greatness](https://moz.com/beginners-guide-to-seo) & [Googles SEO Starter Guide](https://support.google.com/webmasters/answer/7451184?hl=en).
-Just like I stated in  the disclaimer, please note that this guide will not make your website rank #1 on your searches. My guide is written by reading Googles guide, and even they say this:
+I really enjoyed [Mozs Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) & [Googles SEO Starter Guide](https://support.google.com/webmasters/answer/7451184?hl=en). 
+This "guide" could not have been written without it. I can't recommend strongly enough to read through them.
+
+Just like I stated in  the disclaimer, please note that this guide will not make your website rank #1 on your searches. 
+My guide is written by reading Googles guide, and even they say this:
 > This guide won't provide any secrets that'll automatically rank your site first in Google (sorry!), 
 > but following the best practices outlined below will hopefully make it easier for search engines to crawl, index and understand your content.
 
@@ -78,12 +79,12 @@ Here are some ways I do it:
 > Note: Alt attributes are not allowed on the anchor tag. It's used for images.
 > [Source](https://stackoverflow.com/questions/14850187/is-it-correct-to-use-alt-tag-for-an-anchor-link)
 
-- [ ] For the robots.txt file, make sure it correctly suggests which parts of your site search engines should and shouldn't crawl.[Source](https://moz.com/learn/seo/robotstxt)
+- [ ] For the robots.txt file, make sure it correctly suggests which parts of your site search engines should and shouldn't crawl. [Source](https://moz.com/learn/seo/robotstxt)
 - [ ] Make sure the noindex meta tag is NOT added if you want it indexed. [Source](https://support.google.com/webmasters/answer/93710?hl=en) 
 - [ ] Don't include hidden text and links. [Source](https://support.google.com/webmasters/answer/66353?hl=en)
 - [ ] Don't cloak your pages. [Source](https://support.google.com/webmasters/answer/66355?hl=en&ref_topic=6001971)
-- [ ] Google doesn't see a big advantage at what the URL structure itself looks like, i.e. if there's multiple slashes & nested paths in URLs.
-	It however DOES care about crawl depth or how many links someone has to click through to actually get to that content
+- [ ] Google doesn't see a big advantage at what the URL structure itself looks like i.e. if there's multiple slashes & nested paths in URLs.
+	It however DOES care about crawl depth or how many links someone has to click through to actually get to that content.
 	[This source](https://www.searchenginejournal.com/google-click-depth-matters-seo-url-structure/256779/)
 	explains [this](https://www.youtube.com/watch?v=zyQbNGUycX8) video at the 31:09 mark.
 > Having said all that, it is still good UX if we keep URL paths short & relevant. [Source](https://support.google.com/webmasters/answer/7451184?hl=en#hierarchy)
