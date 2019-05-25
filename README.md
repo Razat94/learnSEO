@@ -20,6 +20,7 @@
   All jokes aside, the main point of SEO is to improve your websites visibility, traffic, and search rankings.
   This guide already assumes you know how to implement it.
   This guide is meant for people who get stuck on trying to optimize a site, and would like to follow good generalized SEO practices to change their websites accordingly.
+  >  This guide won't provide any secrets that'll automatically rank your site first in Google (sorry!), but following the best practices outlined below will hopefully make it easier for search engines to crawl, index and understand your content.
   Please note however that even if you somehow complete all of the checklists on this page, it doesn't gurantee users that they will rank first.
   All it means is that your page has the potential of being listed on a SERP.
   Without further ado...
@@ -29,7 +30,8 @@
 
 ## <p align="center"> HERE'S HOW TO DEVELOP AN SEO FRIENDLY WEBSITE </p>
 
-I really enjoyed Moz's guide to SEO. I will try to write this guide in a similar fashion by following
+I really enjoyed Moz's guide to SEO & Google's SEO Starter guide. This "guide" could not have been written without it, for it's written in a similar fashion.
+CREDITS:
 [Mozs Pyramid of Greatness](https://moz.com/beginners-guide-to-seo) & [Googles SEO Starter Guide](https://support.google.com/webmasters/answer/7451184?hl=en)
   <div align = "center">
     <img src = "images/moz.PNG">
@@ -58,10 +60,10 @@ I really enjoyed Moz's guide to SEO. I will try to write this guide in a similar
     <img src = "images/links.PNG">
   </div>
 
-- [ ] Utilize a XML/HTML sitemap [Source](https://support.google.com/webmasters/answer/183668?hl=en)
+- [ ] Utilize a XML/HTML sitemap. [Source](https://support.google.com/webmasters/answer/183668?hl=en)
 > Note: You can submit the sitemap.xml file to both Google Search Console & Bing Webmaster Tools
 
-- [x] Although it's completely optional, try considering adding breadcrumbs lists for your pages.
+- [x] Although it's completely optional, try considering adding breadcrumbs lists to your pages.
 Look at <a href = "https://developers.google.com/search/docs/data-types/breadcrumb">what a breadcrumb is</a> and [how it's useful](https://seo.co/breadcrumbs-help-seo/)
 
 - [ ] Check for broken links, and fix any that you find.
@@ -71,13 +73,13 @@ Here are some ways I do it:
 - https://www.drlinkcheck.com/
 - [Screaming Frog](https://www.screamingfrog.co.uk/broken-link-checker/) can also find broken links 
 - [ ] Make sure you also have no broken images. Make sure images include alt attribute. 
-> Note: Alt attributes are not allowed on the <a> tag. It's used for images.
+> Note: Alt attributes are not allowed on the anchor tag. It's used for images.
 > [Source](https://stackoverflow.com/questions/14850187/is-it-correct-to-use-alt-tag-for-an-anchor-link)
 
-- [ ] For the robots.txt file, make sure it correctly suggests which parts of your site search engines should and shouldn't crawl
+- [ ] For the robots.txt file, make sure it correctly suggests which parts of your site search engines should and shouldn't crawl.[Source](https://moz.com/learn/seo/robotstxt)
 - [ ] Make sure the noindex meta tag is NOT added if you want it indexed. [Source](https://support.google.com/webmasters/answer/93710?hl=en) 
-- [ ] Don't include hidden text and links [Source](https://support.google.com/webmasters/answer/66353?hl=en)
-- [ ] Don't cloak your pages [Source](https://support.google.com/webmasters/answer/66355?hl=en&ref_topic=6001971)
+- [ ] Don't include hidden text and links. [Source](https://support.google.com/webmasters/answer/66353?hl=en)
+- [ ] Don't cloak your pages. [Source](https://support.google.com/webmasters/answer/66355?hl=en&ref_topic=6001971)
 - [ ] Google doesn't see a big advantage at what the URL structure itself looks like, i.e. if there's multiple slashes & nested paths in URLs.
 	It however DOES care about crawl depth or how many links someone has to click through to actually get to that content
 	[This source](https://www.searchenginejournal.com/google-click-depth-matters-seo-url-structure/256779/)
