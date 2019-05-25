@@ -63,7 +63,7 @@ I really enjoyed Moz's guide to SEO. I will try to write this guide in a similar
 
 ```
 Although it's completely optional, try considering adding breadcrumbs lists for your pages.
-Look at [what a breadcrumb is](https://developers.google.com/search/docs/data-types/breadcrumb) and [how it's useful](https://seo.co/breadcrumbs-help-seo/)
+Look at <a href = "https://developers.google.com/search/docs/data-types/breadcrumb">what a breadcrumb is</a> and [how it's useful](https://seo.co/breadcrumbs-help-seo/)
 ```
 
 - [ ] Check for broken links, and fix any that you find.
