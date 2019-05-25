@@ -77,7 +77,8 @@ Here are some ways I do it:
 - https://error404.atomseo.com/
 - https://www.drlinkcheck.com/
 - [Screaming Frog](https://www.screamingfrog.co.uk/broken-link-checker/) can also find broken links 
-- [ ] Make sure you also have no broken images. Make sure images include alt attribute. 
+- [x] Although optional, try to create a custom 404 page like [Mozs 404 Custom Error Page](https://moz.com/404). [Source](https://support.google.com/webmasters/answer/93641)
+- [ ] Make sure you also have no broken images. Make sure images include alt attribute. [Source](https://moz.com/learn/seo/alt-text)
 > Note: Alt attributes are not allowed on the anchor tag. It's used for images.
 > [Source](https://stackoverflow.com/questions/14850187/is-it-correct-to-use-alt-tag-for-an-anchor-link)
 
