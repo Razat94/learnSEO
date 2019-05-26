@@ -101,6 +101,7 @@ Here are some ways I do it:
 
 <h4>**Websites must answer the searcher’s query & be optimized to attract searchers & engines**</h4>
 
+Make sure you write compelling content that best matches the query’s intent.
 > "Content is more than just words; it’s anything meant to be consumed by searchers — there’s video content, image content, and of course, text. 
 > If search engines are answer machines, content is the means by which the engines deliver those answers."
 > [Source](https://moz.com/beginners-guide-to-seo/how-search-engines-operate)
@@ -108,16 +109,14 @@ Here are some ways I do it:
 > Remember: "What you want to rank for and what your audience actually wants are often two wildly different things. 
 > Focusing on your audience and then using keyword data to hone those insights will make for much more successful campaigns than focusing on arbitrary keywords."
 
-- [ ] YOU NEED TO MAKE SURE THE content on your page matches the query’s intent. [Source](https://moz.com/beginners-guide-to-seo/how-search-engines-operate)
-- [ ] Make your content compelling. Don't keyword stuff & add irrelavant content. Also, try to avoid using duplicate content. 
-      It's not so much that Google hurts your seo, it's just that it limits the amount of unique content you can have. 
-      [Source](https://support.google.com/webmasters/answer/66358?hl=en&ref_topic=6001971).
-
+- [ ] Don't keyword stuff & add irrelavant content. [Source](https://support.google.com/webmasters/answer/66358?hl=en&ref_topic=6001971).
 - [ ] Don't scrape content: [Source](https://support.google.com/webmasters/answer/2721312?hl=en&ref_topic=6001971).
-- [x] Consider targeting long tail keywords. [Source](https://www.semrush.com/blog/how-to-choose-long-tail-keywords/)
-
 - [ ] Don't add thin content: https://support.google.com/webmasters/answer/9044175?visit_id=636941329085969070-3801685224&rd=2#thin-content
-- [ ] Try to use an h1 tag for page headers or headings to help crawlers identify pages. [Source](https://support.google.com/webmasters/answer/7451184?hl=en#headingtags)
+- [x] Try to avoid using duplicate content. Although Google doesn't penalizes people for it, it does limit the amount of unique content you can have. 
+      [Source](https://www.hobo-web.co.uk/duplicate-content-problems/)
+> I suggest reading [Moz's resource](https://moz.com/learn/seo/duplicate-content) about duplicate content as well.
+- [x] Consider targeting long tail keywords. [Source](https://www.semrush.com/blog/how-to-choose-long-tail-keywords/)
+- [x] Try to use an h1 tag for page headers or headings to help crawlers identify pages. [Source](https://support.google.com/webmasters/answer/7451184?hl=en#headingtags)
 > Please note that you should use header tags only when it's appropriate. [Source](https://www.youtube.com/watch?v=GIn5qJKU8VM)
 
 > NOTE: It's not enough for your page to be properly functioning that isn’t duplicate, spamming, or broken. The minimum bar today for modern SEO is a step higher.
