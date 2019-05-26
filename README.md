@@ -53,7 +53,7 @@ Having said all that, I will try to write this guide in a similar fashion by fol
 
 
 
-
+<br></br>
 ### <p align="center" id = "crawl"> Crawl Accessibile | [Back to ToC](#toc) </p>
 
 <h4>**In short, make sure your website is crawlable so that engines can reach and index your content.**</h4>
@@ -96,7 +96,7 @@ Here are some ways I do it:
 
 
 
-
+<br></br>
 ### <p align="center" id = "compellingContentkeywordOptimized"> Compelling Content & Optimized Keywords | [Back to ToC](#toc) </p>
 
 <h4>**Websites must answer the searcher’s query & be optimized to attract searchers & engines**</h4>
