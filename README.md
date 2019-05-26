@@ -52,6 +52,8 @@ Having said all that, I will try to write this guide in a similar fashion by fol
 
 
 
+
+
 ### <p align="center" id = "crawl"> Crawl Accessibile | [Back to ToC](#toc) </p>
 
 <h4>**In short, make sure your website is crawlable so that engines can reach and index your content.**</h4>
@@ -91,9 +93,40 @@ Here are some ways I do it:
 - [ ] Have ssl enabled. It implies a symbol of trust to your users & search engines alike. [Source](https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html)
 - [ ] Make sure that the DNS is properly set up and both www and non www versions of the site [Source](https://support.google.com/webmasters/answer/44231?hl=en)
 
+
+
+
+
 ### <p align="center" id = "compellingContentkeywordOptimized"> Compelling Content & Optimized Keywords | [Back to ToC](#toc) </p>
 
 <h4>**Websites must answer the searcher’s query & be optimized to attract searchers & engines**</h4>
+
+> "Content is more than just words; it’s anything meant to be consumed by searchers — there’s video content, image content, and of course, text. 
+> If search engines are answer machines, content is the means by which the engines deliver those answers."
+> [Source](https://moz.com/beginners-guide-to-seo/how-search-engines-operate)
+
+> Remember: "What you want to rank for and what your audience actually wants are often two wildly different things. 
+> Focusing on your audience and then using keyword data to hone those insights will make for much more successful campaigns than focusing on arbitrary keywords."
+
+- [ ] YOU NEED TO MAKE SURE THE content on your page matches the query’s intent. [Source](https://moz.com/beginners-guide-to-seo/how-search-engines-operate)
+- [ ] Make your content compelling. Don't keyword stuff & add irrelavant content. Also, try to avoid using duplicate content. 
+      It's not so much that Google hurts your seo, it's just that it limits the amount of unique content you can have. 
+      [Source](https://support.google.com/webmasters/answer/66358?hl=en&ref_topic=6001971).
+
+- [ ] Don't scrape content: [Source](https://support.google.com/webmasters/answer/2721312?hl=en&ref_topic=6001971).
+- [x] Consider targeting long tail keywords. [Source](https://www.semrush.com/blog/how-to-choose-long-tail-keywords/)
+
+- [ ] Don't add thin content: https://support.google.com/webmasters/answer/9044175?visit_id=636941329085969070-3801685224&rd=2#thin-content
+- [ ] Try to use an h1 tag for page headers or headings to help crawlers identify pages. [Source](https://support.google.com/webmasters/answer/7451184?hl=en#headingtags)
+> Please note that you should use header tags only when it's appropriate. [Source](https://www.youtube.com/watch?v=GIn5qJKU8VM)
+
+> NOTE: It's not enough for your page to be properly functioning that isn’t duplicate, spamming, or broken. The minimum bar today for modern SEO is a step higher.
+> If you want to rank REALLY well, your page has to provide value to searchers and be better than any other page Google is currently serving as the answer to a particular query.
+> REMEMBER: YOU NEED TO aim for whatever sufficiently satisfies user intent.  If you can't consistently say, "We're the best result that a searcher could find in the search results," well then, guess what? You're not going to have an opportunity to rank. 
+> [Source](https://moz.com/blog/why-good-unique-content-needs-to-die-whiteboard-friday)
+
+
+
 
 
 ### <p align="center" id = "GreatUX"> Great UX | [Back to ToC](#toc) </p>
