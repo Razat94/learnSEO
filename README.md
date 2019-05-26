@@ -109,9 +109,9 @@ Make sure you write compelling content that best matches the query’s intent.
 > Remember: "What you want to rank for and what your audience actually wants are often two wildly different things. 
 > Focusing on your audience and then using keyword data to hone those insights will make for much more successful campaigns than focusing on arbitrary keywords."
 
-- [ ] Don't keyword stuff & add irrelavant content. [Source](https://support.google.com/webmasters/answer/66358?hl=en&ref_topic=6001971).
-- [ ] Don't scrape content: [Source](https://support.google.com/webmasters/answer/2721312?hl=en&ref_topic=6001971).
-- [ ] Don't add thin content: https://support.google.com/webmasters/answer/9044175?visit_id=636941329085969070-3801685224&rd=2#thin-content
+- [ ] Don't keyword stuff & add irrelavant content. [Source](https://support.google.com/webmasters/answer/66358?hl=en&ref_topic=6001971)
+- [ ] Don't scrape content. [Source](https://support.google.com/webmasters/answer/2721312?hl=en&ref_topic=6001971)
+- [ ] Don't add thin content. [Source](https://support.google.com/webmasters/answer/9044175?visit_id=636941329085969070-3801685224&rd=2#thin-content)
 - [x] Try to avoid using duplicate content. Although Google doesn't penalizes people for it, it does limit the amount of unique content you can have. 
       [Source](https://www.hobo-web.co.uk/duplicate-content-problems/)
 > I suggest reading [Moz's resource](https://moz.com/learn/seo/duplicate-content) about duplicate content as well.
