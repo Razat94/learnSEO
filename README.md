@@ -43,21 +43,18 @@ Having said all that, I will try to write this guide in a similar fashion by fol
   </div>
 
 ### <p id = "toc"> Table of Contents </p>
-1. [Crawl accessibility](#crawl) so engines can reach and index your content
-2. [Compelling content](#compellingContent) that answers the searcher’s query
-3. [Keyword optimized](#keywordOptimized) to attract searchers & engines
-4. [Great user experience](#GreatUX) including a fast load speed, ease of use, and compelling UI on any device
-5. [Share-worthy content](#shareWorthy) that earns links, citations, and amplification
-6. [Title, URL, & description](#onsiteOptimazation) to draw high CTR in the rankings
-7. [Snippet/schema markup](#snippet/schema) to stand out in SERPs
+1. [Crawl accessibility](#crawl)
+2. [Provide compelling content & optimize keywords](#compellingContentkeywordOptimized)  
+3. [Great user experience](#GreatUX) including a fast load speed, ease of use, and compelling UI on any device
+4. [Share-worthy content](#shareWorthy) that earns links, citations, and amplification
+5. [Title, URL, & description](#onsiteOptimazation) to draw high CTR in the rankings
+6. [Snippet/schema markup](#snippet/schema) to stand out in SERPs
 
 
 
 ### <p align="center" id = "crawl"> Crawl Accessibile | [Back to ToC](#toc) </p>
 
-
-
-<h4>**In short, make sure your website is crawlable.**</h4>
+<h4>**In short, make sure your website is crawlable so that engines can reach and index your content.**</h4>
 
 - [ ] Make sure you can access every page of your website through internal links.
 > Note: If you want a search engine to find a page, make sure it can be linked from other pages. If it can't find it, it's good as invisible.
@@ -94,9 +91,10 @@ Here are some ways I do it:
 - [ ] Have ssl enabled. It implies a symbol of trust to your users & search engines alike. [Source](https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html)
 - [ ] Make sure that the DNS is properly set up and both www and non www versions of the site [Source](https://support.google.com/webmasters/answer/44231?hl=en)
 
-### <p align="center" id = "compellingContent"> Compelling Content | [Back to ToC](#toc) </p>
+### <p align="center" id = "compellingContentkeywordOptimized"> Compelling Content & Optimized Keywords | [Back to ToC](#toc) </p>
 
-### <p align="center" id = "keywordOptimized"> Keyword Optimized | [Back to ToC](#toc) </p>
+<h4>**Websites must answer the searcher’s query & be optimized to attract searchers & engines**</h4>
+
 
 ### <p align="center" id = "GreatUX"> Great UX | [Back to ToC](#toc) </p>
 
