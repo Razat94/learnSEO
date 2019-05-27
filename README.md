@@ -20,7 +20,6 @@
   All jokes aside, the main point of SEO is to improve your websites visibility, traffic, and search rankings.
   This guide mainly goes over On-Page SEO. It does not go over link building and social media.
   In doing so, this guide is meant for people (like myself) who get stuck on trying to improve a website and ask themselves "How can I make it better?" 
-
   Without further ado...
 </p>
 
