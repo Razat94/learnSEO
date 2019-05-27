@@ -18,9 +18,9 @@
 
 <p align="center"> 
   All jokes aside, the main point of SEO is to improve your websites visibility, traffic, and search rankings.
-  This guide is meant for people who get stuck on trying to optimize a site, and would like to follow good generalized SEO practices to change their websites accordingly.
-  Please note however that even if you somehow complete all of the checklists on this page, it doesn't gurantee users that they will rank first.
-  All it means is that your page has the potential of being listed on a SERP.
+  This guide mainly goes over On-Page SEO. It does not go over link building and social media.
+  In doing so, this guide is meant for people (like myself) who get stuck on trying to improve a website and ask themselves "How can I make it better?" 
+
   Without further ado...
 </p>
 
@@ -31,7 +31,9 @@
 I really enjoyed [Mozs Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) & [Googles SEO Starter Guide](https://support.google.com/webmasters/answer/7451184?hl=en). 
 All credit goes to them, because this "guide" could not have been written without it. I can't recommend strongly enough to read through them.
 
-Just like I stated in  the disclaimer, please note that this guide will not make your website rank #1 on your searches. 
+Please note that this guide does not gurantee that your website will rank #1 on your searches. 
+By following the guidelines listed in the upcoming chapters, this guide can only help your website gain the potential of being listed on a SERP.
+
 My guide is written by reading Googles guide, and even they say this:
 > This guide won't provide any secrets that'll automatically rank your site first in Google (sorry!), 
 > but following the best practices outlined below will hopefully make it easier for search engines to crawl, index and understand your content.
@@ -64,7 +66,7 @@ Having said all that, I will try to write this guide in a similar fashion by fol
     <img src = "images/links.PNG">
   </div>
 
-- [ ] Utilize a XML/HTML sitemap. [Source](https://support.google.com/webmasters/answer/183668?hl=en)
+- [ ] Utilize a XML/HTML sitemap. You can even use [an image sitemap](https://support.google.com/webmasters/answer/178636). [Source](https://support.google.com/webmasters/answer/183668?hl=en)
 > Note: You can submit the sitemap.xml file to both Google Search Console & Bing Webmaster Tools
 
 - [x] Although it's completely optional, try considering adding breadcrumbs lists to your pages.
@@ -76,7 +78,7 @@ Here are some ways I do it:
 - https://error404.atomseo.com/
 - https://www.drlinkcheck.com/
 - [Screaming Frog](https://www.screamingfrog.co.uk/broken-link-checker/) can also find broken links 
-- [x] Although optional, try to create a custom 404 page like [Mozs 404 Custom Error Page](https://moz.com/404). [Source](https://support.google.com/webmasters/answer/93641)
+- [x] Although optional, try to create a custom 404 error page like [Mozs Error Page](https://moz.com/404) or [Googles Error Page](http://google.com/error). [Source](https://support.google.com/webmasters/answer/93641)
 - [ ] Make sure you also have no broken images. Make sure images include alt attribute. [Source](https://moz.com/learn/seo/alt-text)
 > Note: Alt attributes are not allowed on the anchor tag. It's used for images.
 > [Source](https://stackoverflow.com/questions/14850187/is-it-correct-to-use-alt-tag-for-an-anchor-link)
