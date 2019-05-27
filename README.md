@@ -77,7 +77,8 @@ Here are some ways I do it:
 - https://error404.atomseo.com/
 - https://www.drlinkcheck.com/
 - [Screaming Frog](https://www.screamingfrog.co.uk/broken-link-checker/) can also find broken links 
-- [x] Although optional, try to create a custom 404 error page like [Mozs Error Page](https://moz.com/404) or [Googles Error Page](http://google.com/error). [Source](https://support.google.com/webmasters/answer/93641)
+- [x] Although optional, try to create a custom 404 error page like [Mozs Error Page](https://moz.com/404) or [Googles Error Page](http://google.com/error). 
+      [Source](https://support.google.com/webmasters/answer/93641)
 - [ ] Make sure you also have no broken images. Make sure images include alt attribute. [Source](https://moz.com/learn/seo/alt-text)
 > Note: Alt attributes are not allowed on the anchor tag. It's used for images.
 > [Source](https://stackoverflow.com/questions/14850187/is-it-correct-to-use-alt-tag-for-an-anchor-link)
@@ -102,7 +103,7 @@ Here are some ways I do it:
 
 <h4>**Websites must answer the searcher’s query & be optimized to attract searchers & engines**</h4>
 
-Make sure you write compelling content that best matches the query’s intent.
+Make sure you write compelling content that best matches the query’s intent. [Source](https://moz.com/learn/seo/on-page-factors)
 > "Content is more than just words; it’s anything meant to be consumed by searchers — there’s video content, image content, and of course, text. 
 > If search engines are answer machines, content is the means by which the engines deliver those answers."
 > [Source](https://moz.com/beginners-guide-to-seo/how-search-engines-operate)
@@ -133,10 +134,10 @@ Make sure you write compelling content that best matches the query’s intent.
 
 <h4>**Websites must include a fast load speed, be easy of use, and have compelling UI on any device**</h4>
 
-- [ ] Make sure pages load fast (google has a tool). Can be done by:
-	- Try to compress large images for optimal page speeds.
-	- Minify CSS, JavaScript, and HTML. Don't write crappy code that doesn't work. 
-	- Reduce redirects
+- [ ] Make sure pages load fast. [This source](https://moz.com/learn/seo/page-speed) says that it can be done by:
+	- Compressing large images for optimal page speeds.
+	- Minifing CSS, JavaScript, and HTML code.
+	- Reduce how many redirects a page can have.
 
 Here are two ways I like to test a websites speed:
 [Googles pagespeed test](https://developers.google.com/speed/pagespeed/insights/) and
@@ -145,18 +146,17 @@ Here are two ways I like to test a websites speed:
 Although stated above, here are some good ways to optimize [images](https://support.google.com/webmasters/answer/114016?hl=en&ref_topic=2370565)
 and [videos](https://support.google.com/webmasters/answer/156442?hl=en&ref_topic=2370565).
 
-(Stolen from Mozs Chpt 4 Guide)
-Formatting for readability & featured snippets
-Your page could contain the best content ever written on a subject, but if it’s formatted improperly, your audience might never read it! While we can never guarantee that visitors will read our content, there are some principles that can promote readability, including:
+> Please note that some websites can never be as fast as others. 
+> Although it sounds obvious, the category of a website limits how fast it can be.
+> If you have a website with photo heavy, dynamic content, it can never be as fast as a text only blog.
 
-Text size and color - Avoid fonts that are too tiny. Google recommends 16-point font and above to minimize the need for “pinching and zooming” on mobile. The text color in relation to the page’s background color should also promote readability. Additional information on text can be found in the website accessibility guidelines and via Google’s web accessibility fundamentals.
-Headings - Breaking up your content with helpful headings can help readers navigate the page. This is especially useful on long pages where a reader might be looking only for information from a particular section.
-Bullet points - Great for lists, bullet points can help readers skim and more quickly find the information they need.
-Paragraph breaks - Avoiding walls of text can help prevent page abandonment and encourage site visitors to read more of your page.
-Supporting media - When appropriate, include images, videos, and widgets that would complement your content.
-Bold and italics for emphasis - Putting words in bold or italics can add emphasis, so they should be the exception, not the rule. Appropriate use of these formatting options can call out important points you want to communicate.
+> From [Chapter 4 of Moz's SEO Guide](https://moz.com/beginners-guide-to-seo/on-page-seo), here are some principles that can promote readability:
 
-- [ ] Make sure your website is mobile friendly! [Source][https://webmasters.googleblog.com/2016/11/mobile-first-indexing.html) & [Source](https://developers.google.com/search/mobile-sites/mobile-seo/)
+  <div align = "center">
+    <img src = "images/UI-Guidelines.PNG">
+  </div>
+
+- [ ] Make sure your website is mobile friendly! [Source](https://webmasters.googleblog.com/2016/11/mobile-first-indexing.html) & [Source](https://developers.google.com/search/mobile-sites/mobile-seo/)
 > Use [this](https://search.google.com/test/mobile-friendly) to test a sites mobile friendliness.
 
 
