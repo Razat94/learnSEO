@@ -18,9 +18,9 @@
 
 <p align="center"> 
   All jokes aside, the main point of SEO is to improve your websites visibility, traffic, and search rankings.
-  This guide mainly goes over On-Page SEO. It does not go over link building and social media.
-  In doing so, this guide is meant for people (like myself) who get stuck on trying to improve a website and ask themselves "How can I make it better?" 
-  Without further ado...
+  This guide mainly goes over On-Page SEO. It does not go over link building and social media tools.
+  Ultimately, this guide is meant for people (like myself) who get stuck on trying to improve a website and ask themselves "How can I make it better?" 
+  So without further ado...
 </p>
 
 <br></br>
@@ -122,11 +122,14 @@ Make sure you write compelling content that best matches the query’s intent. [So
 - [x] Try to use an h1 tag for page headers or headings to help crawlers identify pages. [Source](https://support.google.com/webmasters/answer/7451184?hl=en#headingtags)
 > Please note that you should use header tags only when it's appropriate. [Source](https://www.youtube.com/watch?v=GIn5qJKU8VM)
 
-> NOTE: It's not enough for your page to be properly functioning that isn’t duplicate, spamming, or broken. The minimum bar today for modern SEO is a step higher.
-> If you want to rank REALLY well, your page has to provide value to searchers and be better than any other page Google is currently serving as the answer to a particular query.
-> REMEMBER: YOU NEED TO aim for whatever sufficiently satisfies user intent.  
-If you can't consistently say, "We're the best result that a searcher could find in the search results," well then, guess what? You're not going to have an opportunity to rank. 
-> [Source](https://moz.com/blog/why-good-unique-content-needs-to-die-whiteboard-friday)
+- [x] I really liked Rands [talk on 10x content](https://moz.com/blog/how-to-create-10x-content-whiteboard-friday)
+      and [his take on "good unique content"](https://moz.com/blog/why-good-unique-content-needs-to-die-whiteboard-friday). 
+      I encourage you to read/watch it, but the take away point is this:
+> "...the minimum bar today for modern SEO is a step higher, and that is as good as the best in the search results on the search results page. 
+> If you can't consistently say, "We're the best result that a searcher could find in the search results," well then, guess what? 
+> You're not going to have an opportunity to rank. 
+> It's much, much harder to get into those top 10 positions, page 1, page 2 positions than it was in the past 
+> because there are so many ranking signals that so many of these websites have already built up over the last 5, 10, 15 years that you need to go above and beyond."
 
 
 
