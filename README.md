@@ -18,7 +18,7 @@
 
 <p align="center"> 
   All jokes aside, the main point of SEO is to improve a websites visibility, traffic, and search rankings.
-  This guide mainly goes over On-Page SEO, and does not go over link building and social media tools.
+  This guide mainly goes over on-page SEO, and does not go over link building and social media tools.
   Ultimately, this guide is meant for people (like myself) who get stuck on improving a website and ask themselves "How can I make this better?" 
   So without further ado...
 </p>
@@ -62,17 +62,10 @@ Having said all that, I will try to write this guide in a similar fashion by fol
 - [ ] Make sure you can access every page of your website through internal links. 
       If you want a search engine to find a page, make sure it can be linked from other pages. 
       If it can't find it, it's good as invisible.
-s
+
   <div align = "center">
     <img src = "images/links.PNG">
   </div>
-
-- [ ] Utilize a XML/HTML sitemap. You can even use [an image sitemap](https://support.google.com/webmasters/answer/178636). 
-[Source](https://support.google.com/webmasters/answer/183668?hl=en)
-> Note: You can submit the sitemap.xml file to both Google Search Console & Bing Webmaster Tools
-
-- [x] Although it's completely optional, try considering adding breadcrumbs lists to your pages.
-Look at <a href = "https://developers.google.com/search/docs/data-types/breadcrumb">what a breadcrumb is</a> and [how it's useful](https://seo.co/breadcrumbs-help-seo/)
 
 - [ ] Check for broken links, and fix any that you find.
 Here are some ways I do it:
@@ -85,6 +78,12 @@ Here are some ways I do it:
 - [ ] Make sure you also have no broken images. Make sure images include alt attribute. [Source](https://moz.com/learn/seo/alt-text)
 > Note: Alt attributes are not allowed on the anchor tag. It's used for images.
 > [Source](https://stackoverflow.com/questions/14850187/is-it-correct-to-use-alt-tag-for-an-anchor-link)
+
+- [ ] Utilize a XML/HTML sitemap. You can even use [an image sitemap](https://support.google.com/webmasters/answer/178636). 
+[Source](https://support.google.com/webmasters/answer/183668?hl=en)
+> Note: You can submit the sitemap.xml file to both Google Search Console & Bing Webmaster Tools
+- [x] Although it's completely optional, try considering adding breadcrumbs lists to your pages.
+Look at <a href = "https://developers.google.com/search/docs/data-types/breadcrumb">what a breadcrumb is</a> and [how it's useful](https://seo.co/breadcrumbs-help-seo/)
 
 - [ ] For the robots.txt file, make sure it correctly suggests which parts of your site search engines should and shouldn't crawl. [Source](https://moz.com/learn/seo/robotstxt)
 - [ ] Make sure the noindex meta tag is NOT added if you want it indexed. [Source](https://support.google.com/webmasters/answer/93710?hl=en) 
@@ -117,7 +116,7 @@ Make sure you write compelling content that best matches the query’s intent. [So
 - [ ] Don't keyword stuff & add irrelavant content. [Source](https://support.google.com/webmasters/answer/66358?hl=en&ref_topic=6001971)
 - [ ] Don't scrape content. [Source](https://support.google.com/webmasters/answer/2721312?hl=en&ref_topic=6001971)
 - [ ] Don't add thin content. [Source](https://support.google.com/webmasters/answer/9044175?visit_id=636941329085969070-3801685224&rd=2#thin-content)
-- [x] Try to avoid using duplicate content. Although Google doesn't penalizes people for it, it does limit the amount of unique content you can have. 
+- [x] Avoid using duplicate content. Although Google doesn't penalizes people for it, it does limit the amount of unique content you can have. 
       [Source](https://www.hobo-web.co.uk/duplicate-content-problems/)
 > I suggest reading [Moz's resource](https://moz.com/learn/seo/duplicate-content) about duplicate content as well.
 - [x] Consider targeting long tail keywords. [Source](https://www.semrush.com/blog/how-to-choose-long-tail-keywords/)
@@ -150,7 +149,7 @@ Here are two ways I like to test a websites speed:
 [Googles pagespeed test](https://developers.google.com/speed/pagespeed/insights/) and
 [Gtmetrixs speed test](https://gtmetrix.com/)
 
-Although stated above, here are some good ways to optimize [images](https://support.google.com/webmasters/answer/114016?hl=en&ref_topic=2370565)
+Here are some good ways to optimize [images](https://support.google.com/webmasters/answer/114016?hl=en&ref_topic=2370565)
 and [videos](https://support.google.com/webmasters/answer/156442?hl=en&ref_topic=2370565).
 
 > Please note that some websites can never be as fast as others. 
