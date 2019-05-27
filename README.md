@@ -65,7 +65,8 @@ Having said all that, I will try to write this guide in a similar fashion by fol
     <img src = "images/links.PNG">
   </div>
 
-- [ ] Utilize a XML/HTML sitemap. You can even use [an image sitemap](https://support.google.com/webmasters/answer/178636). [Source](https://support.google.com/webmasters/answer/183668?hl=en)
+- [ ] Utilize a XML/HTML sitemap. You can even use [an image sitemap](https://support.google.com/webmasters/answer/178636). 
+[Source](https://support.google.com/webmasters/answer/183668?hl=en)
 > Note: You can submit the sitemap.xml file to both Google Search Console & Bing Webmaster Tools
 
 - [x] Although it's completely optional, try considering adding breadcrumbs lists to your pages.
@@ -123,7 +124,8 @@ Make sure you write compelling content that best matches the query’s intent. [So
 
 > NOTE: It's not enough for your page to be properly functioning that isn’t duplicate, spamming, or broken. The minimum bar today for modern SEO is a step higher.
 > If you want to rank REALLY well, your page has to provide value to searchers and be better than any other page Google is currently serving as the answer to a particular query.
-> REMEMBER: YOU NEED TO aim for whatever sufficiently satisfies user intent.  If you can't consistently say, "We're the best result that a searcher could find in the search results," well then, guess what? You're not going to have an opportunity to rank. 
+> REMEMBER: YOU NEED TO aim for whatever sufficiently satisfies user intent.  
+If you can't consistently say, "We're the best result that a searcher could find in the search results," well then, guess what? You're not going to have an opportunity to rank. 
 > [Source](https://moz.com/blog/why-good-unique-content-needs-to-die-whiteboard-friday)
 
 
@@ -156,8 +158,9 @@ and [videos](https://support.google.com/webmasters/answer/156442?hl=en&ref_topic
     <img src = "images/UI-Guidelines.PNG">
   </div>
 
-- [ ] Make sure your website is mobile friendly! [Source](https://webmasters.googleblog.com/2016/11/mobile-first-indexing.html) & [Source](https://developers.google.com/search/mobile-sites/mobile-seo/)
-> Use [this](https://search.google.com/test/mobile-friendly) to test a sites mobile friendliness.
+- [ ] Make sure your website is mobile friendly! Use [this](https://search.google.com/test/mobile-friendly) to test a sites mobile friendliness.
+[Source](https://webmasters.googleblog.com/2016/11/mobile-first-indexing.html) & [Source](https://developers.google.com/search/mobile-sites/mobile-seo/)
+
 
 
 
