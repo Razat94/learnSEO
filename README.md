@@ -46,7 +46,7 @@ Having said all that, I will try to write this guide in a similar fashion by fol
 ### <p id = "toc"> Table of Contents </p>
 1. [Crawl accessibility](#crawl)
 2. [Provide compelling content & optimize keywords](#compellingContentkeywordOptimized)  
-3. [Great user experience](#GreatUX) including a fast load speed, ease of use, and compelling UI on any device
+3. [Great user experience](#GreatUX)
 4. [Share-worthy content](#shareWorthy) that earns links, citations, and amplification
 5. [Title, URL, & description](#onsiteOptimazation) to draw high CTR in the rankings
 6. [Snippet/schema markup](#snippet/schema) to stand out in SERPs
@@ -128,9 +128,41 @@ Make sure you write compelling content that best matches the query’s intent.
 
 
 
-
+<br></br>
 ### <p align="center" id = "GreatUX"> Great UX | [Back to ToC](#toc) </p>
 
+<h4>**Websites must include a fast load speed, be easy of use, and have compelling UI on any device**</h4>
+
+- [ ] Make sure pages load fast (google has a tool). Can be done by:
+	- Try to compress large images for optimal page speeds.
+	- Minify CSS, JavaScript, and HTML. Don't write crappy code that doesn't work. 
+	- Reduce redirects
+
+Here are two ways I like to test a websites speed:
+[Googles pagespeed test](https://developers.google.com/speed/pagespeed/insights/) and
+[Gtmetrixs speed test](https://gtmetrix.com/)
+
+Although stated above, here are some good ways to optimize [images](https://support.google.com/webmasters/answer/114016?hl=en&ref_topic=2370565)
+and [videos](https://support.google.com/webmasters/answer/156442?hl=en&ref_topic=2370565).
+
+(Stolen from Mozs Chpt 4 Guide)
+Formatting for readability & featured snippets
+Your page could contain the best content ever written on a subject, but if it’s formatted improperly, your audience might never read it! While we can never guarantee that visitors will read our content, there are some principles that can promote readability, including:
+
+Text size and color - Avoid fonts that are too tiny. Google recommends 16-point font and above to minimize the need for “pinching and zooming” on mobile. The text color in relation to the page’s background color should also promote readability. Additional information on text can be found in the website accessibility guidelines and via Google’s web accessibility fundamentals.
+Headings - Breaking up your content with helpful headings can help readers navigate the page. This is especially useful on long pages where a reader might be looking only for information from a particular section.
+Bullet points - Great for lists, bullet points can help readers skim and more quickly find the information they need.
+Paragraph breaks - Avoiding walls of text can help prevent page abandonment and encourage site visitors to read more of your page.
+Supporting media - When appropriate, include images, videos, and widgets that would complement your content.
+Bold and italics for emphasis - Putting words in bold or italics can add emphasis, so they should be the exception, not the rule. Appropriate use of these formatting options can call out important points you want to communicate.
+
+- [ ] Make sure your website is mobile friendly! [Source][https://webmasters.googleblog.com/2016/11/mobile-first-indexing.html) & [Source](https://developers.google.com/search/mobile-sites/mobile-seo/)
+> Use [this](https://search.google.com/test/mobile-friendly) to test a sites mobile friendliness.
+
+
+
+
+<br></br>
 ### <p align="center" id = "shareWorthy"> Share-Worthy Content | [Back to ToC](#toc) </p>
 
 ### <p align="center" id = "onsiteOptimazation"> Title, URL, & Description | [Back to ToC](#toc) </p>
