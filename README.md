@@ -17,9 +17,9 @@
 </div>
 
 <p align="center"> 
-  All jokes aside, the main point of SEO is to improve your websites visibility, traffic, and search rankings.
-  This guide mainly goes over On-Page SEO. It does not go over link building and social media tools.
-  Ultimately, this guide is meant for people (like myself) who get stuck on trying to improve a website and ask themselves "How can I make it better?" 
+  All jokes aside, the main point of SEO is to improve a websites visibility, traffic, and search rankings.
+  This guide mainly goes over On-Page SEO, and does not go over link building and social media tools.
+  Ultimately, this guide is meant for people (like myself) who get stuck on improving a website and ask themselves "How can I make this better?" 
   So without further ado...
 </p>
 
@@ -59,8 +59,10 @@ Having said all that, I will try to write this guide in a similar fashion by fol
 
 <h4>**In short, make sure your website is crawlable so that engines can reach and index your content.**</h4>
 
-- [ ] Make sure you can access every page of your website through internal links.
-> Note: If you want a search engine to find a page, make sure it can be linked from other pages. If it can't find it, it's good as invisible.
+- [ ] Make sure you can access every page of your website through internal links. 
+      If you want a search engine to find a page, make sure it can be linked from other pages. 
+      If it can't find it, it's good as invisible.
+s
   <div align = "center">
     <img src = "images/links.PNG">
   </div>
@@ -155,7 +157,7 @@ and [videos](https://support.google.com/webmasters/answer/156442?hl=en&ref_topic
 > Although it sounds obvious, the category of a website limits how fast it can be.
 > If you have a website with photo heavy, dynamic content, it can never be as fast as a text only blog.
 
-> From [Chapter 4 of Moz's SEO Guide](https://moz.com/beginners-guide-to-seo/on-page-seo), here are some principles that can promote readability:
+- [x] From [Chapter 4 of Moz's SEO Guide](https://moz.com/beginners-guide-to-seo/on-page-seo), here are some principles that can promote readability:
 
   <div align = "center">
     <img src = "images/UI-Guidelines.PNG">
