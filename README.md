@@ -61,7 +61,7 @@ Having said all that, I will try to write this guide in a similar fashion by fol
 
 - [ ] Make sure you can access every page of your website through internal links. 
       If you want a search engine to find a page, make sure it can be linked from other pages. 
-      If it can't find it, it's good as invisible.
+      If it can't find it, it's good as invisible. [Source](https://moz.com/beginners-guide-to-seo/how-search-engines-operate)
 
   <div align = "center">
     <img src = "images/links.PNG">
@@ -95,7 +95,7 @@ Look at <a href = "https://developers.google.com/search/docs/data-types/breadcru
 	explains [this](https://www.youtube.com/watch?v=zyQbNGUycX8) video at the 31:09 mark.
 > Having said all that, it is still good UX if we keep URL paths short & relevant. [Source](https://support.google.com/webmasters/answer/7451184?hl=en#hierarchy)
 - [ ] Have ssl enabled. It implies a symbol of trust to your users & search engines alike. [Source](https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html)
-- [ ] Make sure that the DNS is properly set up and both www and non www versions of the site [Source](https://support.google.com/webmasters/answer/44231?hl=en)
+- [ ] Make sure that the DNS is properly set up and both www and non www versions of the site. [Source](https://support.google.com/webmasters/answer/44231?hl=en)
 
 
 
@@ -112,6 +112,7 @@ Make sure you write compelling content that best matches the query’s intent. [So
 
 > Remember: "What you want to rank for and what your audience actually wants are often two wildly different things. 
 > Focusing on your audience and then using keyword data to hone those insights will make for much more successful campaigns than focusing on arbitrary keywords."
+> [Source](https://moz.com/beginners-guide-to-seo/keyword-research)
 
 - [ ] Don't keyword stuff & add irrelavant content. [Source](https://support.google.com/webmasters/answer/66358?hl=en&ref_topic=6001971)
 - [ ] Don't scrape content. [Source](https://support.google.com/webmasters/answer/2721312?hl=en&ref_topic=6001971)
@@ -145,8 +146,8 @@ Make sure you write compelling content that best matches the query’s intent. [So
 	- Minifing CSS, JavaScript, and HTML code.
 	- Reduce how many redirects a page can have.
 
-Here are two ways I like to test a websites speed:
-[Googles pagespeed test](https://developers.google.com/speed/pagespeed/insights/) and
+I like to test a websites speed through
+[Googles speed test](https://developers.google.com/speed/pagespeed/insights/) and
 [Gtmetrixs speed test](https://gtmetrix.com/)
 
 Here are some good ways to optimize [images](https://support.google.com/webmasters/answer/114016?hl=en&ref_topic=2370565)
@@ -162,9 +163,9 @@ and [videos](https://support.google.com/webmasters/answer/156442?hl=en&ref_topic
     <img src = "images/UI-Guidelines.PNG">
   </div>
 
-- [ ] Make sure your website is mobile friendly! Use [this](https://search.google.com/test/mobile-friendly) to test a sites mobile friendliness.
+- [ ] Make sure your website is mobile friendly! Use [this](https://search.google.com/test/mobile-friendly) to test a certain pages mobile friendliness.
+Google Search Console provides a [Mobile Usability report](https://support.google.com/webmasters/answer/9063469?hl=en) that lets you test your entire website for mobile friendliness.
 [Source](https://webmasters.googleblog.com/2016/11/mobile-first-indexing.html) & [Source](https://developers.google.com/search/mobile-sites/mobile-seo/)
-
 
 
 
