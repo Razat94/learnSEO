@@ -19,9 +19,7 @@
 <p align="center"> 
   All jokes aside, the main point of SEO is to improve a websites visibility, traffic, and search rankings.
   Here's a refresher on <a href = "https://www.google.com/search/howsearchworks/">how googles search engine works</a>
-
-[how googles search engine works](https://www.google.com/search/howsearchworks/)     
-  and [if you need SEO](https://support.google.com/webmasters/answer/35291?hl=en).
+  and <a href = "https://support.google.com/webmasters/answer/35291?hl=en">if you need SEO</a>.
   This guide mainly goes over on-page SEO, and does not go over link building and social media tools.
   Ultimately, this guide is meant for people (like myself) who get stuck on improving a website and ask themselves "How can I make this better?" 
   So without further ado...
