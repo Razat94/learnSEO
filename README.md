@@ -18,6 +18,8 @@
 
 <p align="center"> 
   All jokes aside, the main point of SEO is to improve a websites visibility, traffic, and search rankings.
+  Here's a refresher on [how googles search engine works](https://www.google.com/search/howsearchworks/)     
+  and [if you need SEO](https://support.google.com/webmasters/answer/35291?hl=en).
   This guide mainly goes over on-page SEO, and does not go over link building and social media tools.
   Ultimately, this guide is meant for people (like myself) who get stuck on improving a website and ask themselves "How can I make this better?" 
   So without further ado...
@@ -28,7 +30,8 @@
 ## <p align="center"> HERE'S HOW TO DEVELOP AN SEO FRIENDLY WEBSITE </p>
 
 I really enjoyed [Mozs Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) & [Googles SEO Starter Guide](https://support.google.com/webmasters/answer/7451184?hl=en). 
-All credit goes to them, because this "guide" could not have been written without it. I can't recommend strongly enough to read through them.
+All credit for this "guide" goes to them, because this "guide" could not have been written without it. 
+I can't recommend strongly enough to read through them.
 
 Please note that this guide does not gurantee that your website will rank #1 on your searches. 
 By following the guidelines listed in the upcoming chapters, this guide can only help your website gain the potential of being listed on a SERP.
