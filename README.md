@@ -79,12 +79,12 @@ Here are some ways I do it:
 - [x] Although optional, try to create a custom 404 error page like [Mozs Error Page](https://moz.com/404) or [Googles Error Page](http://google.com/error). 
       [Source](https://support.google.com/webmasters/answer/93641)
 - [ ] Make sure you also have no broken images. Make sure images include alt attribute. [Source](https://moz.com/learn/seo/alt-text)
-> Note: Alt attributes are not allowed on the anchor tag. It's used for images.
-> [Source](https://stackoverflow.com/questions/14850187/is-it-correct-to-use-alt-tag-for-an-anchor-link)
+	> Note: Alt attributes are not allowed on the anchor tag. It's used for images.
+	> [Source](https://stackoverflow.com/questions/14850187/is-it-correct-to-use-alt-tag-for-an-anchor-link)
 
 - [ ] Utilize a XML/HTML sitemap. You can even use [an image sitemap](https://support.google.com/webmasters/answer/178636). 
 [Source](https://support.google.com/webmasters/answer/183668?hl=en)
-> Note: You can submit the sitemap.xml file to both Google Search Console & Bing Webmaster Tools
+	> Note: You can submit the sitemap.xml file to both Google Search Console & Bing Webmaster Tools
 - [x] Although it's completely optional, try considering adding breadcrumbs lists to your pages.
 Look at <a href = "https://developers.google.com/search/docs/data-types/breadcrumb">what a breadcrumb is</a> and [how it's useful](https://seo.co/breadcrumbs-help-seo/)
 
@@ -120,12 +120,19 @@ Make sure you write compelling content that best matches the query’s intent. [So
 - [ ] Don't keyword stuff & add irrelavant content. [Source](https://support.google.com/webmasters/answer/66358?hl=en&ref_topic=6001971)
 - [ ] Don't scrape content. [Source](https://support.google.com/webmasters/answer/2721312?hl=en&ref_topic=6001971)
 - [ ] Don't add thin content. [Source](https://support.google.com/webmasters/answer/9044175?visit_id=636941329085969070-3801685224&rd=2#thin-content)
+
 - [x] Avoid using duplicate content. Although Google doesn't penalizes people for it, it does limit the amount of unique content you can have. 
-      [Source](https://www.hobo-web.co.uk/duplicate-content-problems/)
-> I suggest reading [Moz's resource](https://moz.com/learn/seo/duplicate-content) about duplicate content as well.
+      Check the site vs itself and vs other websites for duplicate content.
+      [Source](https://www.hobo-web.co.uk/duplicate-content-problems/).
+
+      With a small fee, you can check for dublicate content by:
+      	- Checking the site vs itself: https://www.siteliner.com
+        - Checking the site vs other websites: https://copyscape.com 
+
+      > I suggest reading [Moz's resource](https://moz.com/learn/seo/duplicate-content) about duplicate content as well.
 - [x] Consider targeting long tail keywords. [Source](https://www.semrush.com/blog/how-to-choose-long-tail-keywords/)
 - [x] Try to use an h1 tag for page headers or headings to help crawlers identify pages. [Source](https://support.google.com/webmasters/answer/7451184?hl=en#headingtags)
-> Please note that you should use header tags only when it's appropriate. [Source](https://www.youtube.com/watch?v=GIn5qJKU8VM)
+	> Please note that you should use header tags only when it's appropriate. [Source](https://www.youtube.com/watch?v=GIn5qJKU8VM)
 
 - [x] I really liked Rands [talk on 10x content](https://moz.com/blog/how-to-create-10x-content-whiteboard-friday)
       and [his take on "good unique content"](https://moz.com/blog/why-good-unique-content-needs-to-die-whiteboard-friday). 
@@ -167,8 +174,10 @@ and [videos](https://support.google.com/webmasters/answer/156442?hl=en&ref_topic
   </div>
 
 - [ ] Make sure your website is mobile friendly! Use [this](https://search.google.com/test/mobile-friendly) to test a certain pages mobile friendliness.
-Google Search Console provides a [Mobile Usability report](https://support.google.com/webmasters/answer/9063469?hl=en) that lets you test your entire website for mobile friendliness.
-[Source](https://webmasters.googleblog.com/2016/11/mobile-first-indexing.html) & [Source](https://developers.google.com/search/mobile-sites/mobile-seo/)
+Google Search Console provides a [Mobile Usability report](https://support.google.com/webmasters/answer/9063469?hl=en) 
+that lets you test your entire website for mobile friendliness.
+[Source](https://webmasters.googleblog.com/2016/11/mobile-first-indexing.html) & 
+[Source](https://developers.google.com/search/mobile-sites/mobile-seo/)
 
 
 
