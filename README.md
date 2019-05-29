@@ -129,7 +129,7 @@ Make sure you write compelling content that best matches the query’s intent. [So
       	- Checking the site vs itself: https://www.siteliner.com
         - Checking the site vs other websites: https://copyscape.com 
 
-      > I suggest reading [Moz's resource](https://moz.com/learn/seo/duplicate-content) about duplicate content as well.
+> I suggest reading [Moz's resource](https://moz.com/learn/seo/duplicate-content) about duplicate content as well.
 - [x] Consider targeting long tail keywords. [Source](https://www.semrush.com/blog/how-to-choose-long-tail-keywords/)
 - [x] Try to use an h1 tag for page headers or headings to help crawlers identify pages. [Source](https://support.google.com/webmasters/answer/7451184?hl=en#headingtags)
 	> Please note that you should use header tags only when it's appropriate. [Source](https://www.youtube.com/watch?v=GIn5qJKU8VM)
