@@ -126,8 +126,8 @@ Make sure you write compelling content that best matches the query’s intent. [So
       [Source](https://www.hobo-web.co.uk/duplicate-content-problems/).
 
       With a small fee, you can check for dublicate content by:
-      - Checking the site vs itself: (https://www.siteliner.com)
-      - Checking the site vs other websites: (https://copyscape.com) 
+      - Checking the site vs itself: https://www.siteliner.com
+      - Checking the site vs other websites: https://copyscape.com 
 
 > I suggest reading [Moz's resource](https://moz.com/learn/seo/duplicate-content) about duplicate content as well.
 - [x] Consider targeting long tail keywords. [Source](https://www.semrush.com/blog/how-to-choose-long-tail-keywords/)
