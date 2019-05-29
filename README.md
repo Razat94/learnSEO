@@ -122,7 +122,6 @@ Make sure you write compelling content that best matches the query’s intent. [So
 - [ ] Don't add thin content. [Source](https://support.google.com/webmasters/answer/9044175?visit_id=636941329085969070-3801685224&rd=2#thin-content)
 
 - [x] Avoid using duplicate content. Although Google doesn't penalizes people for it, it does limit the amount of unique content you can have. 
-      Check the site vs itself and vs other websites for duplicate content.
       [Source](https://www.hobo-web.co.uk/duplicate-content-problems/).
 
       With a small fee, you can check for dublicate content by:
