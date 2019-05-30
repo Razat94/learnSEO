@@ -186,4 +186,19 @@ that lets you test your entire website for mobile friendliness.
 
 ### <p align="center" id = "onsiteOptimazation"> Title, URL, & Description | [Back to ToC](#toc) </p>
 
+
+
+
+<br></br>
 ### <p align="center" id = "snippet/schema"> Snippet/Schema Markup | [Back to ToC](#toc) </p>
+- [ ] I would recommend reading [Mozs](https://moz.com/learn/seo/schema-structured-data) and 
+[Googles](https://developers.google.com/search/docs/guides/intro-structured-data) refreshers on schemas.  
+	- When making a schema, follow the 
+	[general structured data guidelines](https://developers.google.com/search/docs/guides/sd-policies) 
+	that Google provides. 
+	Google recommends using the [JSON-LD format](https://json-ld.org) for structured data whenever possible.  
+	- Now there are quite a number of tools you can use to make a schema.
+	I would recommend using Googles tools, specifically: 
+	[Googles Structured Data Markup Helper](https://support.google.com/webmasters/answer/3069489?hl=en)
+	OR [Googles Data Highlighter](https://support.google.com/webmasters/answer/2692911?hl=en).
+	- To test your schema, use [Googles Structed Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/).
