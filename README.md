@@ -214,5 +214,5 @@ that lets you test your entire website for mobile friendliness.
 
 - [ ]	Read [this](https://developers.google.com/search/docs/guides/mark-up-content) to learn how to implement rich snippets.
 	If you don't feel like reading, you can try watching [this video from Moz](https://moz.com/blog/target-featured-snippet-opportunities)
-	that basically states that you can format your page to make it show up in featured snippets.
-		- You can try testing your website for rich results [here](https://search.google.com/test/rich-results).
+	that basically states how to format your page to make it show up in featured snippets.
+> You can try testing your website for rich results [here](https://search.google.com/test/rich-results).
