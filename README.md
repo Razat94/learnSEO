@@ -201,7 +201,7 @@ that lets you test your entire website for mobile friendliness.
 	I would recommend using Googles tools, specifically: 
 	[Googles Structured Data Markup Helper](https://support.google.com/webmasters/answer/3069489?hl=en)
 	OR [Googles Data Highlighter](https://support.google.com/webmasters/answer/2692911?hl=en).
-		- Having said all that, here are some additional tools that you could use:
+	Having said all that, here are some additional tools that you could use:
 		- https://hallanalysis.com/json-ld-generator/
 		- https://technicalseo.com/tools/schema-markup-generator/
 	- To test your schema, use [Googles Structed Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/).
