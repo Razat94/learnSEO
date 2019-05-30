@@ -191,6 +191,12 @@ that lets you test your entire website for mobile friendliness.
 
 <br></br>
 ### <p align="center" id = "snippet/schema"> Snippet/Schema Markup | [Back to ToC](#toc) </p>
+- [x] Having structured data on your page is optional
+> "There's no generic ranking boost for SD usage. That's the same as far as I remember. 
+> However, SD can make it easier to understand what the page is about, 
+> which can make it easier to show where it's relevant (improves targeting, maybe ranking for the right terms). (not new, imo)".
+> [Source](https://twitter.com/JohnMu/status/980902538865205248)
+
 - [ ] I would recommend reading [Mozs](https://moz.com/learn/seo/schema-structured-data) and 
 [Googles](https://developers.google.com/search/docs/guides/intro-structured-data) refreshers on schemas.  
 	- When making a schema, follow the 
@@ -205,3 +211,8 @@ that lets you test your entire website for mobile friendliness.
 		- https://hallanalysis.com/json-ld-generator/
 		- https://technicalseo.com/tools/schema-markup-generator/
 	- To test your schema, use [Googles Structed Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/).
+
+- [ ]	Read [this](https://developers.google.com/search/docs/guides/mark-up-content) to learn how to implement rich snippets.
+	If you don't feel like reading, you can try watching [this video from Moz](https://moz.com/blog/target-featured-snippet-opportunities)
+	that basically states that you can format your page to make it show up in featured snippets.
+		- You can try testing your website for rich results [here](https://search.google.com/test/rich-results).
