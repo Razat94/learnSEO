@@ -196,9 +196,10 @@ that lets you test your entire website for mobile friendliness.
 ### <p align="center" id = "shareWorthy"> Share-Worthy Content | [Back to ToC](#toc) </p>
 <h4>**Share-worthy content that earns links, citations, and amplification**</h4>
 
-This chapter seems to relate more to off-site SEO. Although that is important, that is not the point of this guide.
-I really liked reading [this material from Google](https://webmasters.googleblog.com/2008/10/good-times-with-inbound-links.html) about this subject,
-You can learn more about off-page SEO [here](https://moz.com/learn/seo/off-site-seo)
+This chapter seems to relate more to [off-page SEO](https://moz.com/learn/seo/off-site-seo). 
+Although that is important, that is not the point of this guide.
+Having said that, I liked reading [this material from Google](https://webmasters.googleblog.com/2008/10/good-times-with-inbound-links.html) 
+
 
 
 
@@ -250,20 +251,20 @@ You can learn more about off-page SEO [here](https://moz.com/learn/seo/off-site-
 > which can make it easier to show where it's relevant (improves targeting, maybe ranking for the right terms). (not new, imo)".
 > [Source](https://twitter.com/JohnMu/status/980902538865205248)
 
-- [ ] I would recommend reading [Mozs](https://moz.com/learn/seo/schema-structured-data) and 
-[Googles](https://developers.google.com/search/docs/guides/intro-structured-data) refreshers on schemas.  
+- [ ] Refresh your memory of schemas by reading [Mozs](https://moz.com/learn/seo/schema-structured-data) and 
+[Googles](https://developers.google.com/search/docs/guides/intro-structured-data) guides.  
 	- When making a schema, follow the 
 	[general structured data guidelines](https://developers.google.com/search/docs/guides/sd-policies) 
 	that Google provides. 
-	Google recommends using the [JSON-LD format](https://json-ld.org) for structured data whenever possible.  
-	- Now there are quite a number of tools you can use to make a schema.
+	Google recommends using the [JSON-LD format](https://json-ld.org) for structured data.  
+	- You can use various tools to make a schema.
 	I would recommend using Googles tools, specifically: 
 	[Googles Structured Data Markup Helper](https://support.google.com/webmasters/answer/3069489?hl=en)
 	OR [Googles Data Highlighter](https://support.google.com/webmasters/answer/2692911?hl=en).
-	Having said all that, here are some additional tools that you could use:
+	Having said that, here are some more that you can use:
 		- https://hallanalysis.com/json-ld-generator/
 		- https://technicalseo.com/tools/schema-markup-generator/
-	- To test your schema, use [Googles Structed Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/).
+	- Test your schema using [Googles Structed Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/).
 
 - [ ]	Read [this](https://developers.google.com/search/docs/guides/mark-up-content) to learn how to implement rich snippets.
 	If you don't feel like reading, try watching [this video from Moz](https://moz.com/blog/target-featured-snippet-opportunities)
