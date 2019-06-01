@@ -75,7 +75,7 @@ Here are some ways I do it:
 - https://www.brokenlinkcheck.com/
 - https://error404.atomseo.com/
 - https://www.drlinkcheck.com/
-- (Xenu's Link Sleuth)[http://home.snafu.de/tilman/xenulink.html] is a great software tool to find broken links.
+- [Xenu's Link Sleuth](http://home.snafu.de/tilman/xenulink.html) is a great software tool to find broken links.
 - [Screaming Frog](https://www.screamingfrog.co.uk/broken-link-checker/) can also find broken links 
 - [x] Although optional, try to create a custom 404 error page like [Mozs Error Page](https://moz.com/404) or [Googles Error Page](http://google.com/error). 
       [Source](https://support.google.com/webmasters/answer/93641)
@@ -188,15 +188,17 @@ that lets you test your entire website for mobile friendliness.
 <br></br>
 ### <p align="center" id = "onsiteOptimazation"> Title, URL, & Description | [Back to ToC](#toc) </p>
 
-- [ ] First things first, check your site to see what pages have missing meta titles, descriptions and also H1 tags.
+- [ ] First things first, check your site to see what pages have missing meta titles, descriptions and H1 tags (for headings).
       Also check for duplicate page titles, descriptions and H1 tags. 
       [Source](https://www.searchenginejournal.com/important-tags-seo/156440/)
 	- I like using [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) to do this.
 	- [BeamUsUp](http://beamusup.com/) is apparently another tool that you can use. Please note that you will need to have Java installed on your machine to use it.
 
 <br />
-The rest of this chapter remphasizes the point above. 
-Create unique, accurate page titles and meta descriptions that have keywords prevalent in them.
+<h4>
+**The rest of this chapter remphasizes the point above. 
+Create unique, accurate page titles and meta descriptions that have keywords prevalent in them.**
+</h4>
 <br />
 
 - [ ] Use heading tags to emphasize important text, but please use it sparingly. Use h1 tags for page headings.
@@ -206,11 +208,11 @@ Create unique, accurate page titles and meta descriptions that have keywords pre
       But make sure you target relevant key words, and pay attention to the meta description tag.
       [Source](https://support.google.com/webmasters/answer/79812).
       
-      - You should use your meta description to improve snippets. 
-        [Source](https://webmasters.googleblog.com/2007/09/improve-snippets-with-meta-description.html)
+      > You should use your meta description to improve snippets. 
+      >  [Source](https://webmasters.googleblog.com/2007/09/improve-snippets-with-meta-description.html)
 
 - [ ] Make sure urls/page titles are properly named.
-      [Source](https://support.google.com/webmasters/answer/35624?hl=en)
+      [Source](https://support.google.com/webmasters/answer/35624?hl=en) &
       [Source](https://moz.com/learn/seo/title-tag)
 
 - [ ] Google doesn't see a big advantage at what the URL structure itself looks like i.e. if there's multiple slashes & nested paths in URLs.
@@ -219,7 +221,7 @@ Create unique, accurate page titles and meta descriptions that have keywords pre
 	explains [this](https://www.youtube.com/watch?v=zyQbNGUycX8) video at the 31:09 mark.
 > Having said all that, it is still good UX if we keep URL paths short & relevant. [Source](https://support.google.com/webmasters/answer/7451184?hl=en#hierarchy)
 
-- [x] Just to reiterate the point above, the page depth (the number of clicks you need to reach a specific page from the homepage) does affect SEO
+- [x] Just to reiterate the point above, the page depth (the number of clicks you need to reach a specific page from the homepage) does affect SEO.
       [Source](https://www.oncrawl.com/oncrawl-seo-thoughts/page-depth-how-it-affects-your-seo-performance/)
 
 - [ ] You can use [this](https://support.google.com/webmasters/answer/9012289) tool to inspect your URLs.
