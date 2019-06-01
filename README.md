@@ -194,22 +194,23 @@ that lets you test your entire website for mobile friendliness.
 	- I like using [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) to do this.
 	- [BeamUsUp](http://beamusup.com/) is apparently another tool that you can use. Please note that you will need to have Java installed on your machine to use it.
 
+> Use heading tags to emphasize important text, but please use it sparingly. Use h1 tags for page headings.
+> [Source](https://support.google.com/webmasters/answer/7451184?hl=en#headingtags)
+
+<br />
+
+> NEVER pay attention to the keywords meta tag. 
+      But make sure you target relevant key words when you pay attention to the meta description tag.
+      [Source](https://support.google.com/webmasters/answer/79812).
+> Also, you should use [meta descriptions to improve snippets](https://webmasters.googleblog.com/2007/09/improve-snippets-with-meta-description.html)
+
+
 <br />
 <h4>
 **The rest of this chapter remphasizes the point above. 
 Create unique, accurate page titles and meta descriptions that have keywords prevalent in them.**
 </h4>
 <br />
-
-- [ ] Use heading tags to emphasize important text, but please use it sparingly. Use h1 tags for page headings.
-      [Source](https://support.google.com/webmasters/answer/7451184?hl=en#headingtags)
-
-- [ ] NEVER pay attention to the keywords meta tag. 
-      But make sure you target relevant key words, and pay attention to the meta description tag.
-      [Source](https://support.google.com/webmasters/answer/79812).
-      
-> You should use your meta description to improve snippets. 
-> [Source](https://webmasters.googleblog.com/2007/09/improve-snippets-with-meta-description.html)
 
 - [ ] Make sure urls/page titles are properly named.
       [Source](https://support.google.com/webmasters/answer/35624?hl=en) &
