@@ -116,6 +116,7 @@ Look at <a href = "https://developers.google.com/search/docs/data-types/breadcru
 <h4>**Websites must answer the searcher’s query & be optimized to attract searchers & engines**</h4>
 
 Make sure you write compelling content that best matches the query’s intent. [Source](https://moz.com/learn/seo/on-page-factors)
+
 > "Content is more than just words; it’s anything meant to be consumed by searchers — there’s video content, image content, and of course, text. 
 > If search engines are answer machines, content is the means by which the engines deliver those answers."
 > [Source](https://moz.com/beginners-guide-to-seo/how-search-engines-operate)
@@ -124,6 +125,13 @@ Make sure you write compelling content that best matches the query’s intent. [So
 > Focusing on your audience and then using keyword data to hone those insights will make for much more successful campaigns than focusing on arbitrary keywords."
 > [Source](https://moz.com/beginners-guide-to-seo/keyword-research)
 
+- [ ] <h5> DO YOUR KEYWORD RESEARCH </h5>
+Here are some tools that you can use:
+- https://ads.google.com/home/tools/keyword-planner/
+- https://www.semrush.com/
+- https://moz.com/explorer
+
+- [x] Consider targeting long tail keywords. [Source](https://www.semrush.com/blog/how-to-choose-long-tail-keywords/)
 - [ ] Don't keyword stuff & add irrelavant content. [Source](https://support.google.com/webmasters/answer/66358?hl=en&ref_topic=6001971)
 - [ ] Don't scrape content. [Source](https://support.google.com/webmasters/answer/2721312?hl=en&ref_topic=6001971)
 - [ ] Don't add thin content. [Source](https://support.google.com/webmasters/answer/9044175?visit_id=636941329085969070-3801685224&rd=2#thin-content)
@@ -135,10 +143,11 @@ Make sure you write compelling content that best matches the query’s intent. [So
       - Checking your site vs itself: https://www.siteliner.com
       - Checking your site vs other websites: https://copyscape.com 
 
+      Screaming Frog also has a great way of showing duplicate content.
+
 > I suggest reading [Moz's resource](https://moz.com/learn/seo/duplicate-content) and 
 > [Googles resource](https://support.google.com/webmasters/answer/66359) about duplicate content as well.
 
-- [x] Consider targeting long tail keywords. [Source](https://www.semrush.com/blog/how-to-choose-long-tail-keywords/)
 - [x] Try to use an h1 tag for page headers or headings to help crawlers identify pages. [Source](https://support.google.com/webmasters/answer/7451184?hl=en#headingtags)
 	> Please note that you should use header tags only when it's appropriate. [Source](https://www.youtube.com/watch?v=GIn5qJKU8VM)
 
@@ -166,10 +175,10 @@ Make sure you write compelling content that best matches the query’s intent. [So
 
 > I like to test a websites speed through
 > [Googles speed test](https://developers.google.com/speed/pagespeed/insights/) and
-> [Gtmetrixs speed test](https://gtmetrix.com/)
+> [Gtmetrixs speed test](https://gtmetrix.com/). Screaming Frog also shows response times.
 
 - [ ] Make sure your [images](https://support.google.com/webmasters/answer/114016?hl=en&ref_topic=2370565)
-and [videos](https://support.google.com/webmasters/answer/156442?hl=en&ref_topic=2370565) are optimized.
+and [videos](https://support.google.com/webmasters/answer/156442?hl=en&ref_topic=2370565) are compressed & optimized.
 
 > Please note that some websites can never be as fast as others. 
 > Although it sounds obvious, the category of a website limits how fast it can be.
