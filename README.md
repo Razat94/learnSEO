@@ -62,6 +62,8 @@ Having said all that, I will try to write this guide in a similar fashion by fol
 4. [Share-worthy content](#shareWorthy)
 5. [Title, URL, & description](#onsiteOptimazation)
 6. [Snippet/schema markup](#snippet/schema)
+7. [Additional Resources](#additionalResources)
+8. [Tools I Use](#toolsIUse)
 
 
 
@@ -283,3 +285,15 @@ Having said that, I liked reading [this material from Google](https://webmasters
 	that basically states how to format your page to make it show up in featured snippets.
 > Try to test your website for rich results [here](https://search.google.com/test/rich-results).
 > Google Search Console also provides [rich result status reports](https://support.google.com/webmasters/answer/7552505)
+
+
+
+
+<br></br>
+### <p align="center" id = "additionalResources"> Additional Resources | [Back to ToC](#toc) </p>
+
+
+
+
+<br></br>
+### <p align="center" id = "toolsIUse"> Tools I Use | [Back to ToC](#toc) </p>
