@@ -126,7 +126,7 @@ Make sure you write compelling content that best matches the query’s intent. [So
 > [Source](https://moz.com/beginners-guide-to-seo/keyword-research)
 
 <h5> DO YOUR KEYWORD RESEARCH </h5>
-Here are some tools that you can use:
+- [x] Here are some tools that you can use:
 	- https://ads.google.com/home/tools/keyword-planner/
 	- https://www.semrush.com/
 	- https://moz.com/explorer
