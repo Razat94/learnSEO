@@ -164,12 +164,12 @@ Make sure you write compelling content that best matches the query’s intent. [So
 	- Minifing CSS, JavaScript, and HTML code.
 	- Reduce how many redirects a page can have.
 
-I like to test a websites speed through
-[Googles speed test](https://developers.google.com/speed/pagespeed/insights/) and
-[Gtmetrixs speed test](https://gtmetrix.com/)
+> I like to test a websites speed through
+> [Googles speed test](https://developers.google.com/speed/pagespeed/insights/) and
+> [Gtmetrixs speed test](https://gtmetrix.com/)
 
-Here are some good ways to optimize [images](https://support.google.com/webmasters/answer/114016?hl=en&ref_topic=2370565)
-and [videos](https://support.google.com/webmasters/answer/156442?hl=en&ref_topic=2370565).
+- [ ] Make sure your [images](https://support.google.com/webmasters/answer/114016?hl=en&ref_topic=2370565)
+and [videos](https://support.google.com/webmasters/answer/156442?hl=en&ref_topic=2370565) are optimized.
 
 > Please note that some websites can never be as fast as others. 
 > Although it sounds obvious, the category of a website limits how fast it can be.
@@ -181,7 +181,7 @@ and [videos](https://support.google.com/webmasters/answer/156442?hl=en&ref_topic
     <img src = "images/UI-Guidelines.PNG">
   </div>
 
-- [x] From the picture above, here is [Google’s web accessibility fundamentals.](https://developers.google.com/web/fundamentals/accessibility/)
+> Try to read [Google’s web accessibility fundamentals.](https://developers.google.com/web/fundamentals/accessibility/)
 
 - [ ] Make sure your website is mobile friendly! Use [this](https://search.google.com/test/mobile-friendly) to test a certain pages mobile friendliness.
 Google Search Console provides a [Mobile Usability report](https://support.google.com/webmasters/answer/9063469?hl=en) 
@@ -261,7 +261,7 @@ Having said that, I liked reading [this material from Google](https://webmasters
 	I would recommend using Googles tools, specifically: 
 	[Googles Structured Data Markup Helper](https://support.google.com/webmasters/answer/3069489?hl=en)
 	OR [Googles Data Highlighter](https://support.google.com/webmasters/answer/2692911?hl=en).
-	Having said that, here are some more that you can use:
+	Having said that, here are more tools you can use:
 		- https://hallanalysis.com/json-ld-generator/
 		- https://technicalseo.com/tools/schema-markup-generator/
 	- Test your schema using [Googles Structed Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/).
