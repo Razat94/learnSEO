@@ -199,15 +199,10 @@ that lets you test your entire website for mobile friendliness.
 > Use heading tags to emphasize important text, but please use it sparingly. Use h1 tags for page headings.
 > [Source](https://support.google.com/webmasters/answer/7451184?hl=en#headingtags)
 
-<br>
-
 > NEVER pay attention to the keywords meta tag. 
-      But make sure you target relevant key words when you pay attention to the meta description tag.
-      [Googles Source](https://support.google.com/webmasters/answer/79812) & [Mozs Source](https://moz.com/learn/seo/meta-description)
+> But make sure you target relevant key words when you pay attention to the meta description tag.
+> [Googles Source](https://support.google.com/webmasters/answer/79812) & [Mozs Source](https://moz.com/learn/seo/meta-description)
 > Also, you should use [meta descriptions to improve snippets](https://webmasters.googleblog.com/2007/09/improve-snippets-with-meta-description.html)
-
-
-<br>
 
 > Lastly, make sure urls/page titles are properly named.
 > [Googles source](https://support.google.com/webmasters/answer/35624?hl=en) &
