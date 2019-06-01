@@ -39,7 +39,7 @@
 
 I really enjoyed [Mozs Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo), [Mozs SEO Learning Center](https://moz.com/learn/seo/on-site)
 & [Googles SEO Starter Guide](https://support.google.com/webmasters/answer/7451184?hl=en). 
-All credit for this "guide" goes to them, because this "guide" could not have been written without it. 
+All credit for this guide goes to them, because this guide could not have been written without it. 
 I can't recommend strongly enough to read through them.
 
 Please note that this guide does not gurantee that your website will rank #1 on your searches. 
@@ -59,7 +59,7 @@ Having said all that, I will try to write this guide in a similar fashion by fol
 1. [Crawl accessibility](#crawl)
 2. [Provide compelling content & optimize keywords](#compellingContentkeywordOptimized)  
 3. [Great user experience](#GreatUX)
-4. [Share-worthy content](#shareWorthy) that earns links, citations, and amplification
+4. [Share-worthy content](#shareWorthy)
 5. [Title, URL, & description](#onsiteOptimazation)
 6. [Snippet/schema markup](#snippet/schema)
 
@@ -181,6 +181,8 @@ and [videos](https://support.google.com/webmasters/answer/156442?hl=en&ref_topic
     <img src = "images/UI-Guidelines.PNG">
   </div>
 
+- [x] From the picture above, here is [Google’s web accessibility fundamentals.](https://developers.google.com/web/fundamentals/accessibility/)
+
 - [ ] Make sure your website is mobile friendly! Use [this](https://search.google.com/test/mobile-friendly) to test a certain pages mobile friendliness.
 Google Search Console provides a [Mobile Usability report](https://support.google.com/webmasters/answer/9063469?hl=en) 
 that lets you test your entire website for mobile friendliness.
@@ -192,7 +194,11 @@ that lets you test your entire website for mobile friendliness.
 
 <br></br>
 ### <p align="center" id = "shareWorthy"> Share-Worthy Content | [Back to ToC](#toc) </p>
+<h4>**Share-worthy content that earns links, citations, and amplification**</h4>
 
+This chapter seems to relate more to off-site SEO. Although that is important, that is not the point of this guide.
+I really liked reading [this material from Google](https://webmasters.googleblog.com/2008/10/good-times-with-inbound-links.html) about this subject,
+You can learn more about off-page SEO [here](https://moz.com/learn/seo/off-site-seo)
 
 
 
@@ -263,4 +269,4 @@ that lets you test your entire website for mobile friendliness.
 	If you don't feel like reading, you can try watching [this video from Moz](https://moz.com/blog/target-featured-snippet-opportunities)
 	that basically states how to format your page to make it show up in featured snippets.
 > You can try testing your website for rich results [here](https://search.google.com/test/rich-results).
-> Google Search Console also has a way to provide a [rich result status reports](https://support.google.com/webmasters/answer/7552505)
+> Google Search Console also has a way to provide [rich result status reports](https://support.google.com/webmasters/answer/7552505)
