@@ -29,7 +29,8 @@
 
 ## <p align="center"> HERE'S HOW TO DEVELOP AN SEO FRIENDLY WEBSITE </p>
 
-I really enjoyed [Mozs Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) & [Googles SEO Starter Guide](https://support.google.com/webmasters/answer/7451184?hl=en). 
+I really enjoyed [Mozs Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo), [Mozs SEO Learning Center](https://moz.com/learn/seo/on-site)
+& [Googles SEO Starter Guide](https://support.google.com/webmasters/answer/7451184?hl=en). 
 All credit for this "guide" goes to them, because this "guide" could not have been written without it. 
 I can't recommend strongly enough to read through them.
 
@@ -96,7 +97,8 @@ Look at <a href = "https://developers.google.com/search/docs/data-types/breadcru
 - [ ] Don't cloak your pages. [Source](https://support.google.com/webmasters/answer/66355?hl=en&ref_topic=6001971)
 - [ ] Have ssl enabled. It implies a symbol of trust to your users & search engines alike. [Source](https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html)
 - [ ] Make sure that the DNS is properly set up and both www and non www versions of the site. [Source](https://support.google.com/webmasters/answer/44231?hl=en)
-- [ ] Define a canonical page for similar or duplicate pages. [Source](https://support.google.com/webmasters/answer/139066)  
+- [ ] Define a canonical page for similar or duplicate pages. 
+      [Googles source](https://support.google.com/webmasters/answer/139066) and [Mozs source](https://moz.com/learn/seo/canonicalization)
 
 
 
@@ -214,7 +216,8 @@ that lets you test your entire website for mobile friendliness.
 	It however DOES care about crawl depth or how many links someone has to click through to actually get to that content.
 	[This source](https://www.searchenginejournal.com/google-click-depth-matters-seo-url-structure/256779/)
 	explains [this](https://www.youtube.com/watch?v=zyQbNGUycX8) video at the 31:09 mark.
-> Having said all that, it is still good UX if we keep URL paths short & relevant. [Source](https://support.google.com/webmasters/answer/7451184?hl=en#hierarchy)
+> Having said all that, it is still good UX if we keep URL paths short & relevant. 
+> [Googles source](https://support.google.com/webmasters/answer/7451184?hl=en#hierarchy) & [Mozs source](https://moz.com/learn/seo/url)
 
 - [x] Just to reiterate the point above, the page depth (the number of clicks you need to reach a specific page from the homepage) does affect SEO.
       [Source](https://www.oncrawl.com/oncrawl-seo-thoughts/page-depth-how-it-affects-your-seo-performance/)
