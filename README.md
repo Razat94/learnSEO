@@ -126,10 +126,11 @@ Make sure you write compelling content that best matches the query’s intent. [So
 > [Source](https://moz.com/beginners-guide-to-seo/keyword-research)
 
 <h5> DO YOUR KEYWORD RESEARCH </h5>
+
 - [x] Here are some tools that you can use:
-	- https://ads.google.com/home/tools/keyword-planner/
-	- https://www.semrush.com/
-	- https://moz.com/explorer
+  - https://ads.google.com/home/tools/keyword-planner/
+  - https://www.semrush.com/
+  - https://moz.com/explorer
 
 - [x] Consider targeting long tail keywords. [Source](https://www.semrush.com/blog/how-to-choose-long-tail-keywords/)
 - [ ] Don't keyword stuff & add irrelavant content. [Source](https://support.google.com/webmasters/answer/66358?hl=en&ref_topic=6001971)
