@@ -212,15 +212,15 @@ You can learn more about off-page SEO [here](https://moz.com/learn/seo/off-site-
 	- I like using [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) to do this.
 	- [BeamUsUp](http://beamusup.com/) is apparently another tool that you can use. Please note that you will need to have Java installed on your machine to use it.
 
-> Use heading tags to emphasize important text, but please use it sparingly. Use h1 tags for page headings.
+> Emphasize important text through heading tags, but please use it sparingly. Use h1 tags for page headings.
 > [Source](https://support.google.com/webmasters/answer/7451184?hl=en#headingtags)
 
 > NEVER pay attention to the keywords meta tag. 
 > But make sure you target relevant key words when you pay attention to the meta description tag.
 > [Googles Source](https://support.google.com/webmasters/answer/79812) & [Mozs Source](https://moz.com/learn/seo/meta-description)
-> Also, you should use [meta descriptions to improve snippets](https://webmasters.googleblog.com/2007/09/improve-snippets-with-meta-description.html)
+> Also, [meta descriptions can improve snippets](https://webmasters.googleblog.com/2007/09/improve-snippets-with-meta-description.html)
 
-> Lastly, make sure urls/page titles are properly named.
+> Lastly, properly name your urls/page titles.
 > [Googles source](https://support.google.com/webmasters/answer/35624?hl=en) &
 > [Mozs source](https://moz.com/learn/seo/title-tag)
 
@@ -230,10 +230,10 @@ You can learn more about off-page SEO [here](https://moz.com/learn/seo/off-site-
 	It however DOES care about crawl depth or how many links someone has to click through to actually get to that content.
 	[This source](https://www.searchenginejournal.com/google-click-depth-matters-seo-url-structure/256779/)
 	explains [this](https://www.youtube.com/watch?v=zyQbNGUycX8) video at the 31:09 mark.
-> Having said all that, it is still good UX if we keep URL paths short & relevant. 
+> Having said all that, it's still good UX if we keep URL paths short & relevant. 
 > [Googles source](https://support.google.com/webmasters/answer/7451184?hl=en#hierarchy) & [Mozs source](https://moz.com/learn/seo/url)
 
-- [x] Just to reiterate the point above, the page depth (the number of clicks you need to reach a specific page from the homepage) does affect SEO.
+- [x] To reiterate the point above, page depth (the number of clicks you need to reach a specific page from the homepage) does affect SEO.
       [Source](https://www.oncrawl.com/oncrawl-seo-thoughts/page-depth-how-it-affects-your-seo-performance/)
 
 - [ ] You can use [this](https://support.google.com/webmasters/answer/9012289) tool to inspect your URLs.
@@ -266,7 +266,7 @@ You can learn more about off-page SEO [here](https://moz.com/learn/seo/off-site-
 	- To test your schema, use [Googles Structed Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/).
 
 - [ ]	Read [this](https://developers.google.com/search/docs/guides/mark-up-content) to learn how to implement rich snippets.
-	If you don't feel like reading, you can try watching [this video from Moz](https://moz.com/blog/target-featured-snippet-opportunities)
+	If you don't feel like reading, try watching [this video from Moz](https://moz.com/blog/target-featured-snippet-opportunities)
 	that basically states how to format your page to make it show up in featured snippets.
-> You can try testing your website for rich results [here](https://search.google.com/test/rich-results).
-> Google Search Console also has a way to provide [rich result status reports](https://support.google.com/webmasters/answer/7552505)
+> Try to test your website for rich results [here](https://search.google.com/test/rich-results).
+> Google Search Console also provides [rich result status reports](https://support.google.com/webmasters/answer/7552505)
