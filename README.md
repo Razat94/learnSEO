@@ -182,7 +182,47 @@ that lets you test your entire website for mobile friendliness.
 <br></br>
 ### <p align="center" id = "shareWorthy"> Share-Worthy Content | [Back to ToC](#toc) </p>
 
+
+
+
+<br></br>
 ### <p align="center" id = "onsiteOptimazation"> Title, URL, & Description | [Back to ToC](#toc) </p>
+
+- [ ] First things first, check your site to see what pages have missing meta titles, descriptions and also H1 tags.
+      Also check for duplicate page titles, descriptions and H1 tags. 
+      [Source](https://www.searchenginejournal.com/important-tags-seo/156440/)
+	- I like using [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) to do this.
+	- [BeamUsUp](http://beamusup.com/) is apparently another tool that you can use. Please note that you will need to have Java installed on your machine to use it.
+
+<br />
+The rest of this chapter remphasizes the point above. 
+Create unique, accurate page titles and meta descriptions that have keywords prevalent in them.
+<br />
+
+- [ ] Use heading tags to emphasize important text, but please use it sparingly. Use h1 tags for page headings.
+      [Source](https://support.google.com/webmasters/answer/7451184?hl=en#headingtags)
+
+- [ ] NEVER pay attention to the keywords meta tag. 
+      But make sure you target relevant key words, and pay attention to the meta description tag.
+      [Source](https://support.google.com/webmasters/answer/79812).
+      
+      - You should use your meta description to improve snippets. 
+        [Source](https://webmasters.googleblog.com/2007/09/improve-snippets-with-meta-description.html)
+
+- [ ] Make sure urls/page titles are properly named.
+      [Source](https://support.google.com/webmasters/answer/35624?hl=en)
+      [Source](https://moz.com/learn/seo/title-tag)
+
+- [ ] Google doesn't see a big advantage at what the URL structure itself looks like i.e. if there's multiple slashes & nested paths in URLs.
+	It however DOES care about crawl depth or how many links someone has to click through to actually get to that content.
+	[This source](https://www.searchenginejournal.com/google-click-depth-matters-seo-url-structure/256779/)
+	explains [this](https://www.youtube.com/watch?v=zyQbNGUycX8) video at the 31:09 mark.
+> Having said all that, it is still good UX if we keep URL paths short & relevant. [Source](https://support.google.com/webmasters/answer/7451184?hl=en#hierarchy)
+
+- [x] Just to reiterate the point above, the page depth (the number of clicks you need to reach a specific page from the homepage) does affect SEO
+      [Source](https://www.oncrawl.com/oncrawl-seo-thoughts/page-depth-how-it-affects-your-seo-performance/)
+
+- [ ] You can use [this](https://support.google.com/webmasters/answer/9012289) tool to inspect your URLs.
 
 
 
