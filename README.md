@@ -208,8 +208,8 @@ Create unique, accurate page titles and meta descriptions that have keywords pre
       But make sure you target relevant key words, and pay attention to the meta description tag.
       [Source](https://support.google.com/webmasters/answer/79812).
       
-      > You should use your meta description to improve snippets. 
-      >  [Source](https://webmasters.googleblog.com/2007/09/improve-snippets-with-meta-description.html)
+> You should use your meta description to improve snippets. 
+> [Source](https://webmasters.googleblog.com/2007/09/improve-snippets-with-meta-description.html)
 
 - [ ] Make sure urls/page titles are properly named.
       [Source](https://support.google.com/webmasters/answer/35624?hl=en) &
