@@ -197,7 +197,7 @@ that lets you test your entire website for mobile friendliness.
 > Use heading tags to emphasize important text, but please use it sparingly. Use h1 tags for page headings.
 > [Source](https://support.google.com/webmasters/answer/7451184?hl=en#headingtags)
 
-<br />
+<br>
 
 > NEVER pay attention to the keywords meta tag. 
       But make sure you target relevant key words when you pay attention to the meta description tag.
@@ -205,13 +205,13 @@ that lets you test your entire website for mobile friendliness.
 > Also, you should use [meta descriptions to improve snippets](https://webmasters.googleblog.com/2007/09/improve-snippets-with-meta-description.html)
 
 
-<br />
+<br>
 
 > Lastly, make sure urls/page titles are properly named.
 > [Source](https://support.google.com/webmasters/answer/35624?hl=en) &
 > [Source](https://moz.com/learn/seo/title-tag)
 
-
+<br>
 
 - [ ] Google doesn't see a big advantage at what the URL structure itself looks like i.e. if there's multiple slashes & nested paths in URLs.
 	It however DOES care about crawl depth or how many links someone has to click through to actually get to that content.
