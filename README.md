@@ -75,6 +75,7 @@ Here are some ways I do it:
 - https://www.brokenlinkcheck.com/
 - https://error404.atomseo.com/
 - https://www.drlinkcheck.com/
+- (Xenu's Link Sleuth)[http://home.snafu.de/tilman/xenulink.html] is a great software tool to find broken links.
 - [Screaming Frog](https://www.screamingfrog.co.uk/broken-link-checker/) can also find broken links 
 - [x] Although optional, try to create a custom 404 error page like [Mozs Error Page](https://moz.com/404) or [Googles Error Page](http://google.com/error). 
       [Source](https://support.google.com/webmasters/answer/93641)
@@ -92,14 +93,9 @@ Look at <a href = "https://developers.google.com/search/docs/data-types/breadcru
 - [ ] Make sure the noindex meta tag is NOT added if you want it indexed. [Source](https://support.google.com/webmasters/answer/93710?hl=en) 
 - [ ] Don't include hidden text and links. [Source](https://support.google.com/webmasters/answer/66353?hl=en)
 - [ ] Don't cloak your pages. [Source](https://support.google.com/webmasters/answer/66355?hl=en&ref_topic=6001971)
-- [ ] Google doesn't see a big advantage at what the URL structure itself looks like i.e. if there's multiple slashes & nested paths in URLs.
-	It however DOES care about crawl depth or how many links someone has to click through to actually get to that content.
-	[This source](https://www.searchenginejournal.com/google-click-depth-matters-seo-url-structure/256779/)
-	explains [this](https://www.youtube.com/watch?v=zyQbNGUycX8) video at the 31:09 mark.
-> Having said all that, it is still good UX if we keep URL paths short & relevant. [Source](https://support.google.com/webmasters/answer/7451184?hl=en#hierarchy)
 - [ ] Have ssl enabled. It implies a symbol of trust to your users & search engines alike. [Source](https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html)
 - [ ] Make sure that the DNS is properly set up and both www and non www versions of the site. [Source](https://support.google.com/webmasters/answer/44231?hl=en)
-
+- [ ] Define a canonical page for similar or duplicate pages. [Source](https://support.google.com/webmasters/answer/139066)  
 
 
 
@@ -128,7 +124,9 @@ Make sure you write compelling content that best matches the query’s intent. [So
       - Checking the site vs itself: https://www.siteliner.com
       - Checking the site vs other websites: https://copyscape.com 
 
-> I suggest reading [Moz's resource](https://moz.com/learn/seo/duplicate-content) about duplicate content as well.
+> I suggest reading [Moz's resource](https://moz.com/learn/seo/duplicate-content) and 
+> [Googles resource](https://support.google.com/webmasters/answer/66359) about duplicate content as well.
+
 - [x] Consider targeting long tail keywords. [Source](https://www.semrush.com/blog/how-to-choose-long-tail-keywords/)
 - [x] Try to use an h1 tag for page headers or headings to help crawlers identify pages. [Source](https://support.google.com/webmasters/answer/7451184?hl=en#headingtags)
 	> Please note that you should use header tags only when it's appropriate. [Source](https://www.youtube.com/watch?v=GIn5qJKU8VM)
@@ -216,3 +214,4 @@ that lets you test your entire website for mobile friendliness.
 	If you don't feel like reading, you can try watching [this video from Moz](https://moz.com/blog/target-featured-snippet-opportunities)
 	that basically states how to format your page to make it show up in featured snippets.
 > You can try testing your website for rich results [here](https://search.google.com/test/rich-results).
+> Google Search Console also has a way to provide a [rich result status reports](https://support.google.com/webmasters/answer/7552505)
