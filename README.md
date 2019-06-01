@@ -23,7 +23,9 @@
   <a href = "https://www.quicksprout.com/hiring-for-seo/">some questions to ask when hiring for SEO</a>.
   
   <div align = "center">
-    <img src = "images/venn-diagram.jpg" href = "https://www.quicksprout.com/the-beginners-guide-to-technical-seo/"/>
+    <a href = "https://www.quicksprout.com/the-beginners-guide-to-technical-seo/"> 
+      <img src = "images/venn-diagram.jpg" />
+    </a>
   </div>
   
   This guide mainly goes over technical & on-page SEO, and does not go over link building and social media tools.
