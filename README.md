@@ -85,7 +85,8 @@ Here are some ways I do it:
 
 - [ ] Utilize a XML/HTML sitemap. You can even use [an image sitemap](https://support.google.com/webmasters/answer/178636). 
 [Source](https://support.google.com/webmasters/answer/183668?hl=en)
-	> Note: You can submit the sitemap.xml file to both Google Search Console & Bing Webmaster Tools
+	> Note: You can submit the sitemap.xml file or URL to
+	> [Google using the Search Console Sitemaps tool](https://support.google.com/webmasters/answer/7451001) & Bing Webmaster Tools.
 - [x] Although it's completely optional, try considering adding breadcrumbs lists to your pages.
 Look at <a href = "https://developers.google.com/search/docs/data-types/breadcrumb">what a breadcrumb is</a> and [how it's useful](https://seo.co/breadcrumbs-help-seo/)
 
