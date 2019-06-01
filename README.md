@@ -51,8 +51,8 @@ Having said all that, I will try to write this guide in a similar fashion by fol
 2. [Provide compelling content & optimize keywords](#compellingContentkeywordOptimized)  
 3. [Great user experience](#GreatUX)
 4. [Share-worthy content](#shareWorthy) that earns links, citations, and amplification
-5. [Title, URL, & description](#onsiteOptimazation) to draw high CTR in the rankings
-6. [Snippet/schema markup](#snippet/schema) to stand out in SERPs
+5. [Title, URL, & description](#onsiteOptimazation)
+6. [Snippet/schema markup](#snippet/schema)
 
 
 
@@ -229,7 +229,8 @@ that lets you test your entire website for mobile friendliness.
 
 <br></br>
 ### <p align="center" id = "snippet/schema"> Snippet/Schema Markup | [Back to ToC](#toc) </p>
-- [x] Having structured data on your page is optional
+<h4>**Stand out in SERPs by having structured data(This chapter is optional)**</h4>
+
 > "There's no generic ranking boost for SD usage. That's the same as far as I remember. 
 > However, SD can make it easier to understand what the page is about, 
 > which can make it easier to show where it's relevant (improves targeting, maybe ranking for the right terms). (not new, imo)".
