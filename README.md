@@ -64,7 +64,7 @@ Having said all that, I will try to write this guide in a similar fashion by fol
 
 - [ ] Make sure you can access every page of your website through internal links. 
       If you want a search engine to find a page, make sure it can be linked from other pages. 
-      If it can't find it, it's good as invisible. [Source](https://moz.com/beginners-guide-to-seo/how-search-engines-operate)
+      If the search engine can't find it, it’s as good as invisible. [Source](https://moz.com/beginners-guide-to-seo/how-search-engines-operate)
 
   <div align = "center">
     <img src = "images/links.PNG">
@@ -121,8 +121,8 @@ Make sure you write compelling content that best matches the query’s intent. [So
       [Source](https://www.hobo-web.co.uk/duplicate-content-problems/).
 
       With a small fee, you can check for dublicate content by:
-      - Checking the site vs itself: https://www.siteliner.com
-      - Checking the site vs other websites: https://copyscape.com 
+      - Checking your site vs itself: https://www.siteliner.com
+      - Checking your site vs other websites: https://copyscape.com 
 
 > I suggest reading [Moz's resource](https://moz.com/learn/seo/duplicate-content) and 
 > [Googles resource](https://support.google.com/webmasters/answer/66359) about duplicate content as well.
