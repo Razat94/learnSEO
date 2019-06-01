@@ -187,8 +187,9 @@ that lets you test your entire website for mobile friendliness.
 
 <br></br>
 ### <p align="center" id = "onsiteOptimazation"> Title, URL, & Description | [Back to ToC](#toc) </p>
+<h4>**Provide keyword rich page titles, meta descriptions, and headings**</h4>
 
-- [ ] First things first, check your site to see what pages have missing meta titles, descriptions and H1 tags (for headings).
+- [ ] First things first, check your site to see what pages have missing page titles, descriptions and H1 tags (for headings).
       Also check for duplicate page titles, descriptions and H1 tags. 
       [Source](https://www.searchenginejournal.com/important-tags-seo/156440/)
 	- I like using [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) to do this.
