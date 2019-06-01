@@ -206,15 +206,12 @@ that lets you test your entire website for mobile friendliness.
 
 
 <br />
-<h4>
-**The rest of this chapter remphasizes the point above. 
-Create unique, accurate page titles and meta descriptions that have keywords prevalent in them.**
-</h4>
-<br />
 
-- [ ] Make sure urls/page titles are properly named.
-      [Source](https://support.google.com/webmasters/answer/35624?hl=en) &
-      [Source](https://moz.com/learn/seo/title-tag)
+> Lastly, make sure urls/page titles are properly named.
+> [Source](https://support.google.com/webmasters/answer/35624?hl=en) &
+> [Source](https://moz.com/learn/seo/title-tag)
+
+
 
 - [ ] Google doesn't see a big advantage at what the URL structure itself looks like i.e. if there's multiple slashes & nested paths in URLs.
 	It however DOES care about crawl depth or how many links someone has to click through to actually get to that content.
