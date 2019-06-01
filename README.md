@@ -125,7 +125,7 @@ Make sure you write compelling content that best matches the query’s intent. [So
 > Focusing on your audience and then using keyword data to hone those insights will make for much more successful campaigns than focusing on arbitrary keywords."
 > [Source](https://moz.com/beginners-guide-to-seo/keyword-research)
 
-- [ ] <h5> DO YOUR KEYWORD RESEARCH </h5>
+<h5> DO YOUR KEYWORD RESEARCH </h5>
 Here are some tools that you can use:
 - https://ads.google.com/home/tools/keyword-planner/
 - https://www.semrush.com/
@@ -150,6 +150,8 @@ Here are some tools that you can use:
 
 - [x] Try to use an h1 tag for page headers or headings to help crawlers identify pages. [Source](https://support.google.com/webmasters/answer/7451184?hl=en#headingtags)
 	> Please note that you should use header tags only when it's appropriate. [Source](https://www.youtube.com/watch?v=GIn5qJKU8VM)
+
+- [x] Try to optimize the text content on your homepage so that you have at least 2 paragraphs of unique content.  Build this content based off your keyword research.
 
 - [x] I really liked Rands [talk on 10x content](https://moz.com/blog/how-to-create-10x-content-whiteboard-friday)
       and [his take on "good unique content"](https://moz.com/blog/why-good-unique-content-needs-to-die-whiteboard-friday). 
