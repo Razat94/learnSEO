@@ -299,14 +299,15 @@ Having said that, I liked reading [this material from Google](https://webmasters
 ### <p align="center" id = "toolsIUse"> Tools I Use | [Back to ToC](#toc) </p>
 <h4>**If you don't want to read the text above, then just take a look at a few tools that I've grown fond of**</h4>
 
-- [x] If you haven't noticed already, I really like using [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/user-guide/tabs/)
+- [x] If you haven't noticed already, I really like using Screaming Frog.
+      Learn more about the data that's listed in the tabs [here](https://www.screamingfrog.co.uk/seo-spider/user-guide/tabs/).
 - [x] Use [this](https://serpsim.com/) tool if you want to see how your page might look on a SERP.
-- [x] Search on google "source: <<URL>>", you should see various pages from your website on the SERP.
+- [x] If you search on google "source: <<Your URL>>", you should see various pages from your website on the SERP.
 - [x] Use [Google Analytics](https://analytics.google.com/analytics/web/) 
       and [Google Tag Manager](https://support.google.com/tagmanager/answer/6103696?hl=en) to track and analyze data about clients' website traffic, audience and user interaction. 
       You can then use this data for business marketing decisions. 
 - [x] You can visualize data analysis results using [Google Data Studio](https://support.google.com/webmasters/answer/7576553)
-- [x] Check brokens links through this [Broken Link Check Tools](https://www.brokenlinkcheck.com/)
+- [x] I mainly check brokens links through [this Broken Link Checker](https://www.brokenlinkcheck.com/)
 - [x] I use [SEMRUSH](https://www.semrush.com/) for keyword research.
 - [x] I mainly use [this](http://gtmetrix.com/) & ScreamingFrog as my go to website speed test.
 - [x] Use [Googles Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/) to test your schema.
