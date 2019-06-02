@@ -306,7 +306,7 @@ Having said that, I liked reading [this material from Google](https://webmasters
 - [x] Use [Google Analytics](https://analytics.google.com/analytics/web/) 
       and [Google Tag Manager](https://support.google.com/tagmanager/answer/6103696?hl=en) to track and analyze data about clients' website traffic, audience and user interaction. 
       You can then use this data for business marketing decisions. 
-- [x] You can visualize data analysis results using [Google Data Studio](https://support.google.com/webmasters/answer/7576553)
+- [x] You can visualize data analysis results using [Google Search Console](https://support.google.com/webmasters/answer/7576553)
 - [x] I mainly check brokens links through [this Broken Link Checker](https://www.brokenlinkcheck.com/)
 - [x] I use [SEMRUSH](https://www.semrush.com/) for keyword research.
 - [x] I mainly use [this](http://gtmetrix.com/) & ScreamingFrog as my go to website speed test.
