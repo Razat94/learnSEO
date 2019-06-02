@@ -292,13 +292,12 @@ Having said that, I liked reading [this material from Google](https://webmasters
 <br></br>
 ### <p align="center" id = "additionalResources"> Additional Resources | [Back to ToC](#toc) </p>
 - [x] I liked reading [this moz guide](https://moz.com/learn/seo/building-local-business-website)
-      which links to [this blog post](https://moz.com/blog/technical-site-audit-for-2015)
+      which links to [this checklist](https://moz.com/blog/technical-site-audit-for-2015).
 - [x] Moz had 2 good white board friday blogs that talked about essential SEO plans.
       You can check it [here](https://moz.com/blog/launching-new-website-seo-checklist-whiteboard-friday) and 
-      [here](https://moz.com/blog/on-page-seo-2019)
--[x] SEMRUSH also had some good sources. Check [this](https://www.semrush.com/kb/810-technical-seo)
-     and [this blog](https://www.semrush.com/blog/learning-technical-seo/) out.
-<h5> MORE TO COME...maybe. </h5>
+      [here](https://moz.com/blog/on-page-seo-2019).
+- [x] SEMRUSH also had some good sources. Check [this general guide](https://www.semrush.com/kb/810-technical-seo)
+      and [this blog](https://www.semrush.com/blog/learning-technical-seo/) out.
 
 
 
