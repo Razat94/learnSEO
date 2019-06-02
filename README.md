@@ -329,7 +329,7 @@ Having said that, I liked reading [this material from Google](https://webmasters
 As search engines get better & better at crawling pages, it's important to treat them like users.
 If a person has a hard time using your website, your search engine wouldn't have any better luck.
 
-To rank well, you need to build a "good" website around your users. I think a good website:
+> To rank well, you need to build a "good" website around your users. I think a good website:
 	- has no broken links 
 	- is organized (easy to navigate through, crawlable & has good UX)
 	- has relevant and useful content (including optimized meta/structured data!)
