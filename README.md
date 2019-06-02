@@ -28,7 +28,7 @@
     </a>
   </div>
   
-  This guide mainly goes over technical & on-page SEO, and does not go over link building and social media tools.
+  This guide mainly goes over technical & on-page SEO. It does not go over link building and social media tools.
   Ultimately, this guide is meant for people (like myself) who get stuck on improving a website and ask themselves "How can I make this better?" 
   So without further ado...
 </p>
@@ -39,21 +39,21 @@
 
 I really enjoyed [Mozs Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo), [Mozs SEO Learning Center](https://moz.com/learn/seo/on-site)
 & [Googles SEO Starter Guide](https://support.google.com/webmasters/answer/7451184?hl=en). 
-All credit for this guide goes to them, because this guide could not have been written without it. 
+All credit for this guide goes to these resources, because this guide could not have been written without it. 
 I can't recommend strongly enough to read through them.
 
-Please note that this guide does not gurantee that your website will rank #1 on your searches. 
+Due to the competitiveness of some keywords/phrases, ongoing changes in search engine ranking algorithms, and other competitive factors, 
+this guide does not gurantee #1 positions or consistent top 10 positions for any particular keyword, phrase, or search term.
 By following the guidelines listed in the upcoming chapters, this guide can only help your website gain the potential of being listed on a SERP.
 
-My guide is written by reading Googles guide, and even they say this:
+Additionally, this guide is written by reading Googles guide, and even they say this:
 > This guide won't provide any secrets that'll automatically rank your site first in Google (sorry!), 
 > but following the best practices outlined below will hopefully make it easier for search engines to crawl, index and understand your content.
 
 Now, this website breaks information in 3 ways:
 - [ ] These checkboxes represents tasks that you should actively consider when you go through your website.
 > These notes just hold additional information regarding a task.
-- [x] This checkbox represents an optional task. 
-  This is just something you should think about in the back of your head while you go through your website.
+- [x] This checkbox represents an optional task. This is just something you should think about in the back of your head while you go through your website.
 
 Having said all that, I will try to write this guide in a similar fashion by following Mozs Pyramid of Greatness:
 
@@ -136,7 +136,7 @@ Make sure you write compelling content that best matches the query’s intent. [So
 
 <h5> DO YOUR KEYWORD RESEARCH </h5>
 
-- [x] Here are some tools that you can use:
+- [ ] Here are some tools that you can use:
   - https://ads.google.com/home/tools/keyword-planner/
   - https://www.semrush.com/
   - https://moz.com/explorer
@@ -147,7 +147,7 @@ Make sure you write compelling content that best matches the query’s intent. [So
 - [ ] Don't add thin content. [Source](https://support.google.com/webmasters/answer/9044175?visit_id=636941329085969070-3801685224&rd=2#thin-content)
 
 - [x] Avoid using duplicate content. Although Google doesn't penalizes people for it, it does limit the amount of unique content you can have. 
-      [Source](https://www.hobo-web.co.uk/duplicate-content-problems/).
+      [Source](https://www.hobo-web.co.uk/duplicate-content-problems/)
 
       With a small fee, you can check for dublicate content by:
       - Checking your site vs itself: https://www.siteliner.com
@@ -187,7 +187,7 @@ Make sure you write compelling content that best matches the query’s intent. [So
 
 > I like to test a websites speed through
 > [Googles speed test](https://developers.google.com/speed/pagespeed/insights/) and
-> [Gtmetrixs speed test](https://gtmetrix.com/). Screaming Frog also shows response times.
+> [Gtmetrixs speed test](https://gtmetrix.com/). Screaming Frog can show the average response time to load a website.
 
 - [ ] Make sure your [images](https://support.google.com/webmasters/answer/114016?hl=en&ref_topic=2370565)
 and [videos](https://support.google.com/webmasters/answer/156442?hl=en&ref_topic=2370565) are compressed & optimized.
@@ -204,8 +204,8 @@ and [videos](https://support.google.com/webmasters/answer/156442?hl=en&ref_topic
 
 > Try to read [Google’s web accessibility fundamentals.](https://developers.google.com/web/fundamentals/accessibility/)
 
-- [ ] Make sure your website is mobile friendly! Use [this](https://search.google.com/test/mobile-friendly) to test a certain pages mobile friendliness.
-Google Search Console provides a [Mobile Usability report](https://support.google.com/webmasters/answer/9063469?hl=en) 
+- [ ] Make sure your website is mobile friendly! Use [this tool](https://search.google.com/test/mobile-friendly) to test a certain pages mobile friendliness.
+Google Search Console provides a [mobile usability report](https://support.google.com/webmasters/answer/9063469?hl=en) 
 that lets you test your entire website for mobile friendliness.
 [Source](https://webmasters.googleblog.com/2016/11/mobile-first-indexing.html) & 
 [Source](https://developers.google.com/search/mobile-sites/mobile-seo/)
@@ -218,7 +218,7 @@ that lets you test your entire website for mobile friendliness.
 <h4>**Share-worthy content that earns links, citations, and amplification**</h4>
 
 This chapter seems to relate more to [off-page SEO](https://moz.com/learn/seo/off-site-seo). 
-Although that is important, that is not the point of this guide.
+Although off-page SEO is important, it is not the point of this guide.
 Having said that, I liked reading [this material from Google](https://webmasters.googleblog.com/2008/10/good-times-with-inbound-links.html) 
 
 
@@ -258,7 +258,7 @@ Having said that, I liked reading [this material from Google](https://webmasters
 - [x] To reiterate the point above, page depth (the number of clicks you need to reach a specific page from the homepage) does affect SEO.
       [Source](https://www.oncrawl.com/oncrawl-seo-thoughts/page-depth-how-it-affects-your-seo-performance/)
 
-- [ ] You can use [this](https://support.google.com/webmasters/answer/9012289) tool to inspect your URLs.
+- [ ] You can use [this tool](https://support.google.com/webmasters/answer/9012289) to inspect your URLs.
 
 
 
@@ -298,9 +298,9 @@ Having said that, I liked reading [this material from Google](https://webmasters
 
 <br></br>
 ### <p align="center" id = "additionalResources"> Additional Resources | [Back to ToC](#toc) </p>
-- [x] I liked reading [this moz guide](https://moz.com/learn/seo/building-local-business-website)
+- [x] I liked reading [this moz guide to build a local SEO-friendly business website](https://moz.com/learn/seo/building-local-business-website)
       which links to [this checklist](https://moz.com/blog/technical-site-audit-for-2015).
-- [x] Moz had 2 good white board friday blogs that talked about essential SEO plans.
+- [x] Moz had two good white board friday blogs that talked about essential SEO plans.
       You can check it [here](https://moz.com/blog/launching-new-website-seo-checklist-whiteboard-friday) and 
       [here](https://moz.com/blog/on-page-seo-2019).
 - [x] SEMrush also had some good sources. Check [this general guide](https://www.semrush.com/kb/810-technical-seo)
@@ -320,7 +320,7 @@ Having said that, I liked reading [this material from Google](https://webmasters
 - [x] Use [Google Analytics](https://analytics.google.com/analytics/web/) 
       and [Google Tag Manager](https://support.google.com/tagmanager/answer/6103696?hl=en) to track and analyze data about clients' website traffic, audience and user interaction. 
       You can then use this data for business marketing decisions. 
-- [x] You can visualize data analysis results using [Google Search Console](https://support.google.com/webmasters/answer/7576553)
+- [x] You can visualize website performance using [Google Search Console](https://support.google.com/webmasters/answer/7576553)
 - [x] I mainly check brokens links through [this Broken Link Checker](https://www.brokenlinkcheck.com/)
 - [x] I use [SEMRUSH](https://www.semrush.com/) for keyword research.
 - [x] I mainly use [this](http://gtmetrix.com/) & ScreamingFrog as my go to website speed test.
