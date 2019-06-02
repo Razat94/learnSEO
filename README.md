@@ -64,6 +64,7 @@ Having said all that, I will try to write this guide in a similar fashion by fol
 6. [Snippet/schema markup](#snippet/schema)
 7. [Additional Resources](#additionalResources)
 8. [Tools I Use](#toolsIUse)
+9. [Conclusion](#conclusion)
 
 
 
@@ -296,7 +297,7 @@ Having said that, I liked reading [this material from Google](https://webmasters
 - [x] Moz had 2 good white board friday blogs that talked about essential SEO plans.
       You can check it [here](https://moz.com/blog/launching-new-website-seo-checklist-whiteboard-friday) and 
       [here](https://moz.com/blog/on-page-seo-2019).
-- [x] SEMRUSH also had some good sources. Check [this general guide](https://www.semrush.com/kb/810-technical-seo)
+- [x] SEMrush also had some good sources. Check [this general guide](https://www.semrush.com/kb/810-technical-seo)
       and [this blog](https://www.semrush.com/blog/learning-technical-seo/) out.
 
 
@@ -318,3 +319,26 @@ Having said that, I liked reading [this material from Google](https://webmasters
 - [x] I use [SEMRUSH](https://www.semrush.com/) for keyword research.
 - [x] I mainly use [this](http://gtmetrix.com/) & ScreamingFrog as my go to website speed test.
 - [x] Use [Googles Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool/u/0/) to test your schema.
+
+
+
+
+<br></br>
+### <p align="center" id = "conclusion"> Conclusion | [Back to ToC](#toc) </p>
+
+As search engines get better & better at crawling pages, it's important to treat them like users.
+If a person has a hard time using your website, your search engine wouldn't have any better luck.
+
+To rank well, you need to build a "good" website around your users. I think a good website:
+	- has no broken links 
+	- is organized (easy to navigate through, crawlable & has good UX)
+	- has relevant and useful content (including optimized meta/structured data!)
+	- loads quickly
+	- is desktop & mobile friendly
+
+Having said that, you should of course allocate some of your efforts to off-page SEO. 
+But again, the bare minimum to rank well on Google is to first make sure your website works properly.
+
+<br></br>
+Thanks for reading my guide! If you'd like to correct or add something, or if you just want to say hi, you can reach me at
+<a href = "mailto:Razat51@gmail.com" target = "_blank">Razat51@gmail.com</a>  
