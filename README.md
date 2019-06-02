@@ -52,7 +52,8 @@ My guide is written by reading Googles guide, and even they say this:
 Now, this website breaks information in 3 ways:
 - [ ] These checkboxes represents tasks that you should actively consider when you go through your website.
 > These notes just hold additional information regarding a task.
-- [x] This checkbox represents an optional task. This is just something you should think about in the back of your head while you go through your website.
+- [x] This checkbox represents an optional task. 
+  This is just something you should think about in the back of your head while you go through your website.
 
 Having said all that, I will try to write this guide in a similar fashion by following Mozs Pyramid of Greatness:
 
